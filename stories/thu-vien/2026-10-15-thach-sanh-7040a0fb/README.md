@@ -1,0 +1,108 @@
+# Thạch Sanh
+
+| | |
+| --- | --- |
+| Mã truyện | `7040a0fb-6032-472f-9f8e-fa1be92af405` |
+| Nhóm | Truyện thư viện |
+| Nguồn | manual |
+| Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
+| Cập nhật | 2026-10-15T14:34:09.814347+00:00 |
+| Số trang | 8 |
+| Ngôn ngữ | vi |
+| Tuổi | 5–8 |
+| Giọng kể | Viên - Narrative, Warm and Clear (northern) |
+| Trạng thái | published |
+| Đã xoá | không |
+
+**Giới thiệu:** Chàng Thạch Sanh hiền lành bị Lý Thông lừa đi canh miếu chằn tinh rồi cướp công. Chàng cứu công chúa khỏi hang đại bàng, có cây đàn thần và niêu cơm ăn mãi không hết.
+
+**Bài học:** Hiền lành, dũng cảm thì được đền đáp; gian dối sẽ phải xấu hổ.
+
+## Nhân vật
+
+- **Thạch Sanh** — Chàng trai hiền lành, thật thà, dũng cảm (giọng: Quang — chú trầm ấm)
+- **Lý Thông** — Kẻ gian xảo cướp công, cuối truyện biết xấu hổ (giọng: Thanh — ông hiền từ)
+- **Công Chúa** — Công chúa hiền dịu, được Thạch Sanh cứu (giọng: Kim — chị gái dịu dàng)
+- **Chằn Tinh** — Con yêu tinh hung dữ trong miếu hoang (giọng: Quang — chú trầm ấm)
+
+## Trang 1
+
+Ngày xưa, có chàng Thạch Sanh sống một mình trong túp lều dưới gốc đa. Gia tài của chàng chỉ có một lưỡi búa. Hằng ngày, chàng vào rừng đốn củi. Chàng được thần tiên dạy cho võ nghệ.
+
+Một hôm, có người buôn bán tên là Lý Thông đi ngang qua.
+
+**Lý Thông:** Chú em khoẻ mạnh thế này, về ở với anh, hai ta kết làm anh em nhé!
+
+**Thạch Sanh:** Có người anh, em mừng lắm. Em xin nghe lời anh.
+
+## Trang 2
+
+Trong vùng có con chằn tinh hung dữ. Mỗi năm, dân làng phải cử một người đi canh miếu. Đến lượt Lý Thông, hắn lại lừa Thạch Sanh đi thay.
+
+**Lý Thông:** Em đi canh miếu giúp anh một đêm nhé. Anh bận việc nhà, sáng mai em về.
+
+Nửa đêm, chằn tinh hiện ra, nhe nanh giơ vuốt.
+
+**Chằn Tinh:** Kẻ nào dám vào miếu của ta?
+
+Thạch Sanh vung búa đánh trả. Chằn tinh thua, bỏ chạy vào núi sâu, để lại bộ cung tên bằng vàng.
+
+## Trang 3
+
+Thạch Sanh mang cung tên vàng về. Lý Thông sợ hãi, rồi nảy ra ý xấu.
+
+**Lý Thông:** Chằn tinh là con vật nhà vua nuôi. Em làm nó bỏ đi, vua sẽ phạt đấy. Em trốn về gốc đa đi, mọi việc để anh lo.
+
+**Thạch Sanh:** Vâng, em cảm ơn anh. Em về gốc đa đây.
+
+Thạch Sanh thật thà trở về túp lều cũ. Còn Lý Thông vào cung, nhận là mình đã đuổi được chằn tinh, được vua phong làm quan to.
+
+## Trang 4
+
+Một hôm, công chúa đang dạo chơi trong vườn thì một con đại bàng khổng lồ sà xuống, quắp nàng bay đi. Ở gốc đa, Thạch Sanh nhìn thấy, liền giương cung vàng bắn trúng cánh đại bàng.
+
+**Thạch Sanh:** Đại bàng trúng tên rồi! Mình phải theo dấu nó để cứu người!
+
+Những chiếc lông vũ rơi lả tả trên đường bay. Chàng lần theo từng chiếc lông, đến tận một hang sâu trong núi.
+
+## Trang 5
+
+Vua sai Lý Thông đi tìm công chúa. Lý Thông gặp Thạch Sanh, bèn nhờ chàng xuống hang. Thạch Sanh buộc dây vào người, tụt xuống hang tối, đánh đuổi đại bàng, tìm thấy công chúa.
+
+**Công Chúa:** Cảm ơn chàng đã cứu ta! Chàng là ai vậy?
+
+**Thạch Sanh:** Thần là Thạch Sanh. Công chúa lên trước đi, thần sẽ lên sau.
+
+Nhưng khi công chúa vừa lên khỏi hang, Lý Thông liền sai quân lấp kín cửa hang, rồi đưa công chúa về cung.
+
+## Trang 6
+
+Bị nhốt dưới hang, Thạch Sanh không nản. Chàng tìm lối ra, và cứu được thái tử con vua Thủy Tề đang bị đại bàng nhốt trong cũi sắt. Vua Thủy Tề mời chàng xuống thủy cung, muốn tặng vàng bạc.
+
+**Thạch Sanh:** Thần không cần vàng bạc, chỉ xin cây đàn này thôi.
+
+Trở về gốc đa, chàng hay gảy đàn. Trong khi đó, ở cung vua, công chúa buồn bã, chẳng nói chẳng cười.
+
+## Trang 7
+
+Một hôm, Thạch Sanh mang đàn đến kinh thành. Tiếng đàn vang lên trong trẻo, bay vào tận cung vua. Công chúa nghe thấy, bỗng bật cười, cất tiếng nói.
+
+**Công Chúa:** Phụ vương ơi, người gảy đàn đã cứu con dưới hang sâu!
+
+Vua cho gọi Thạch Sanh vào, nghe chàng kể lại mọi chuyện. Lý Thông đứng bên, mặt đỏ bừng vì xấu hổ.
+
+**Lý Thông:** Tôi biết tội rồi. Xin cho tôi về quê làm ăn lương thiện.
+
+## Trang 8
+
+Thạch Sanh xin vua tha cho Lý Thông. Vua gả công chúa cho Thạch Sanh. Nghe tin, quân mười tám nước chư hầu kéo đến đòi đánh. Thạch Sanh ôm đàn ra gảy. Tiếng đàn ngân vang, quân lính nghe thấy nhớ nhà, chẳng ai còn muốn đánh nhau.
+
+**Thạch Sanh:** Mời các vị ăn cơm rồi hãy về.
+
+Niêu cơm nhỏ xíu, mà ăn mãi không hết. Quân các nước phục lăn, kéo nhau về nước.
+
+**Công Chúa:** Hiền lành và dũng cảm, chàng thật xứng đáng!
+
+---
+
+Bản đầy đủ (mọi cột trong cơ sở dữ liệu): [story.json](story.json)
