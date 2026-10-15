@@ -1,0 +1,29 @@
+{
+ "last_run": "20261015T140335Z",
+ "stories": 0,
+ "family_stories": 0,
+ "media": {
+  "files": 0,
+  "copied": 0,
+  "bytes": 0
+ },
+ "recordings": 0,
+ "db_snapshots": [
+  "db-20261015T140335Z.dump.gpg"
+ ],
+ "postgres": "17.11",
+ "restore_check": {
+  "ok": true,
+  "tables": 91,
+  "rows": {
+   "auth.users": 0,
+   "public.households": 0,
+   "public.play_sessions": 0,
+   "public.profiles": 0,
+   "public.stories": 0,
+   "public.story_pages": 0,
+   "storage.objects": 0
+  },
+  "pg_restore_errors": 3
+ }
+}
