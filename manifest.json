@@ -1,5 +1,5 @@
 {
- "last_run": "20261016T124003Z",
+ "last_run": "20261016T125603Z",
  "stories": 40,
  "family_stories": 0,
  "media": {
@@ -13,7 +13,7 @@
   "recordings": 0
  },
  "db_snapshots": [
-  "db-20261016T124003Z.dump.gpg",
+  "db-20261016T125603Z.dump.gpg",
   "db-20261015T140335Z.dump.gpg"
  ],
  "postgres": "17.11",
@@ -41,12 +41,12 @@
    "public.stories": 40,
    "public.story_pages": 320,
    "storage.objects": 683,
-   "vault.secrets": 3
+   "vault.secrets": 4
   },
   "pg_restore_errors": 0,
   "vault": {
-   "secrets": 3,
-   "decrypted": 3,
+   "secrets": 4,
+   "decrypted": 4,
    "match": true
   }
  }
