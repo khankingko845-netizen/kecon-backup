@@ -1,10 +1,10 @@
 {
- "last_run": "20261016T082147Z",
+ "last_run": "20261016T102451Z",
  "stories": 40,
  "family_stories": 0,
  "media": {
   "files": 683,
-  "copied": 17,
+  "copied": 0,
   "bytes": 140579254
  },
  "recordings": 0,
@@ -13,7 +13,7 @@
   "recordings": 0
  },
  "db_snapshots": [
-  "db-20261016T082147Z.dump.gpg",
+  "db-20261016T102451Z.dump.gpg",
   "db-20261015T140335Z.dump.gpg"
  ],
  "postgres": "17.11",
@@ -29,10 +29,10 @@
   "ok": true,
   "tables": 91,
   "rows": {
-   "auth.users": 2,
-   "public.households": 2,
+   "auth.users": 1,
+   "public.households": 1,
    "public.play_sessions": 1,
-   "public.profiles": 2,
+   "public.profiles": 1,
    "public.stories": 40,
    "public.story_pages": 320,
    "storage.objects": 683,
