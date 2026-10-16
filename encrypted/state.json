@@ -1,4 +1,10 @@
 {
+ "family-avatars": {
+  "files": 0,
+  "plain_bytes": 10240,
+  "plain_sha256": "84ff92691f909a05b224e1c56abb4864f01b4f8e3c854e4bb4c7baf1d3f6d652",
+  "updated": "20261016T082147Z"
+ },
  "recordings": {
   "files": 0,
   "plain_bytes": 10240,
@@ -6,9 +12,9 @@
   "updated": "20261015T140335Z"
  },
  "server-config": {
-  "files": 18,
+  "files": 19,
   "plain_bytes": 40960,
-  "plain_sha256": "3a9d7caeaaae7ad7ad05c35c5b86cd61dfc94f5cb7841c8af3dd51ca4e770af6",
-  "updated": "20261015T140335Z"
+  "plain_sha256": "a7f20731a8c02a669089fc3073162b7a8286bd77d38fb75f18083222658244e7",
+  "updated": "20261016T082147Z"
  }
 }

@@ -33,9 +33,9 @@
    "role": "friend",
    "sort_order": 1,
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
-   "updated_at": "2026-10-15T14:34:09.814347+00:00",
-   "voice_id": "IovBBFnLZ6QzJhFLLroy",
-   "voice_name": "Tâm — cô kể chuyện cổ tích",
+   "updated_at": "2026-10-16T06:34:10.228574+00:00",
+   "voice_id": "Q7XJO40lrbzqrkrnlA7V",
+   "voice_name": "An — bà mẹ trầm ấm",
    "voice_type": "woman"
   },
   {
@@ -84,9 +84,9 @@
    "role": "friend",
    "sort_order": 4,
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
-   "updated_at": "2026-10-15T14:34:09.814347+00:00",
-   "voice_id": "e66uATAVqVXOM9VOINfq",
-   "voice_name": "Hiền — bà hiền hậu",
+   "updated_at": "2026-10-16T06:34:10.228574+00:00",
+   "voice_id": "IovBBFnLZ6QzJhFLLroy",
+   "voice_name": "Tâm — cô kể chuyện cổ tích",
    "voice_type": "woman"
   }
  ],
@@ -116,8 +116,8 @@
   {
    "ambient_sound": null,
    "audio_duration": 31,
-   "audio_key": "da6419ff6f34f8f9585ba74e51c60eea30dedd9399495925f2e7496fa60fceea",
-   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/11f0b012-f9a1-482b-a8fc-49139520a873-1a8a0419-de68-4ff6-a256-55a012f8644b.mp3",
+   "audio_key": "6b951608f6cc2f1a395e0ac5e97281133f1e5b1bf696b7abc056ba7c625ee36c",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/11f0b012-f9a1-482b-a8fc-49139520a873-75f3ea59-ee90-4974-8731-045a09edc0a3.mp3",
    "choices": [],
    "content": "[narrator]Ngày xưa, có một bà mẹ nghèo đi ở cho nhà phú ông. Một hôm vào rừng hái củi, khát quá, bà uống nước đọng trong một cái sọ dừa. Rồi bà sinh ra một đứa bé tròn lông lốc như quả dừa, không có chân tay.[/narrator]\n[character:Bà Mẹ]Con ơi, con thế này thì mẹ biết nuôi con ra sao?[/character]\n[character:Sọ Dừa]Mẹ ơi, con cũng là người đấy. Mẹ cứ nuôi con, lớn lên con sẽ đỡ đần mẹ![/character]\n[narrator]Bà thương con, đặt tên là Sọ Dừa.[/narrator]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -133,7 +133,7 @@
    "sfx_sounds": [],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:26:57.30328+00:00",
+   "updated_at": "2026-10-16T06:35:56.010553+00:00",
    "voice_segments": null
   },
   {
@@ -161,9 +161,9 @@
   },
   {
    "ambient_sound": "wind",
-   "audio_duration": 31,
-   "audio_key": "84ae7869e232f7a92bd20383d78472849774a8dc6f08a3f3260def18bff8b70e",
-   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/cda93102-d528-4839-b461-4e36de2b3bb0-4dab19d9-9197-461f-80aa-fa77130b296f.mp3",
+   "audio_duration": 30,
+   "audio_key": "5a63efce1e0ac79ae35b1f4a33784570a68b6e26890962ecc43699e8d572cb1f",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/cda93102-d528-4839-b461-4e36de2b3bb0-d81c167c-a3fe-41e4-b586-73681d992e38.mp3",
    "choices": [],
    "content": "[narrator]Ngày mùa, phú ông sai ba cô con gái thay nhau mang cơm cho Sọ Dừa. Hai cô chị kiêu kỳ, hắt hủi Sọ Dừa. Chỉ có cô Út hiền lành, đối đãi tử tế.[/narrator]\n[character:Cô Cả]Ai lại đi mang cơm cho cái sọ dừa lăn lóc chứ![/character]\n[narrator]Một trưa, cô Út mang cơm ra sớm, thấy một chàng trai khôi ngô ngồi thổi sáo trên võng. Nghe tiếng động, chàng biến mất, chỉ còn Sọ Dừa nằm lăn lóc.[/narrator]\n[character:Cô Út]Sọ Dừa không phải người thường đâu![/character]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -179,14 +179,14 @@
    "sfx_sounds": [],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:06.148915+00:00",
+   "updated_at": "2026-10-16T06:36:06.412196+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": null,
    "audio_duration": 35,
-   "audio_key": "1ca5f75fbda8b02ceb4bfe7b42bb1e5afd86f6247449fba139442a860c3e83c7",
-   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/17e295ac-abcd-4490-9d4a-294b46dfa6e2-7b78ef53-9234-4080-b455-e1d44c10b06a.mp3",
+   "audio_key": "d7e29f4236cc4821a6a76ba1bc0004575c29840bb0859e400762e021d35b35f9",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/17e295ac-abcd-4490-9d4a-294b46dfa6e2-28d1e300-46ad-4233-9d4e-03953201efb8.mp3",
    "choices": [],
    "content": "[narrator]Cuối mùa, Sọ Dừa về nhà, giục mẹ đến hỏi con gái phú ông làm vợ.[/narrator]\n[character:Bà Mẹ]Nhà mình nghèo thế này, phú ông nào chịu gả con cho con?[/character]\n[narrator]Bà đành đến hỏi. Phú ông cười, bèn thách cưới thật nặng.[/narrator]\n[character:Phú Ông]Muốn cưới thì mang đủ một chĩnh vàng cốm, mười tấm lụa đào, mười con lợn béo đến đây![/character]\n[narrator]Đúng ngày hẹn, nhà Sọ Dừa mang đến đủ sính lễ. Phú ông hỏi ba cô con gái, chỉ cô Út cúi đầu e thẹn nhận lời.[/narrator]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -204,14 +204,14 @@
    ],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:06.903245+00:00",
+   "updated_at": "2026-10-16T06:36:18.695531+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 31,
+   "audio_key": "802498c5882aabff2fd7c24fd4dc082e37edcaaedb93889a0544233db63ad400",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/35a32900-ffab-47e1-8ee9-6594e35ef474-fe836df4-1d03-4ffe-bacd-dd2938bd17c3.mp3",
    "choices": [],
    "content": "[narrator]Ngày cưới, cỗ bàn linh đình. Đến giờ rước dâu, chẳng ai thấy Sọ Dừa đâu. Bỗng một chàng trai khôi ngô tuấn tú bước ra, cưỡi ngựa đến đón cô Út. Hoá ra Sọ Dừa đã cởi bỏ lốt dừa.[/narrator]\n[character:Sọ Dừa]Nàng đã thương ta từ khi ta còn là Sọ Dừa. Ta sẽ thương nàng suốt đời.[/character]\n[character:Cô Út]Thiếp cũng nguyện cùng chàng sống hiền lành, chăm chỉ.[/character]\n[narrator]Hai cô chị đứng nhìn, vừa tiếc vừa ghen tị.[/narrator]\n[character:Cô Cả]Biết thế này, ta đã nhận lời rồi![/character]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -230,7 +230,7 @@
    ],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:16.497919+00:00",
+   "updated_at": "2026-10-16T06:36:31.987604+00:00",
    "voice_segments": null
   },
   {
@@ -281,9 +281,9 @@
   },
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 29,
+   "audio_key": "8052c801d75b65e82fea2199d14685d2a3744236f8e2824d24a1c226c678f707",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/a917fcff-15ca-411a-b95d-783dbf6ebc67-eef17a8b-09bd-484d-93ab-2208c73831e5.mp3",
    "choices": [],
    "content": "[narrator]Quan trạng nhận ra vợ, mừng rỡ đón nàng về. Chàng mở tiệc mừng, nhưng giấu vợ trong buồng. Hai cô chị đến, tranh nhau kể chuyện.[/narrator]\n[character:Cô Cả]Em Út chẳng may lạc mất rồi, thương em quá![/character]\n[narrator]Cô Út bước ra. Hai chị đỏ mặt, cúi đầu xấu hổ.[/narrator]\n[character:Cô Cả]Chị em ta sai rồi. Em tha lỗi cho các chị nhé.[/character]\n[character:Cô Út]Các chị biết lỗi là em vui rồi. Chị em mình thương nhau như xưa nhé.[/character]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -299,7 +299,7 @@
    "sfx_sounds": [],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:27.357166+00:00",
+   "updated_at": "2026-10-16T06:36:43.157235+00:00",
    "voice_segments": null
   }
  ],

@@ -23,7 +23,7 @@
 ## Nhân vật
 
 - **Tích Chu** — Cậu bé mải chơi nhưng thương bà (giọng: Bin — bé trai lém lỉnh)
-- **Bà** — Bà của Tích Chu, hiền hậu, tóc bạc (giọng: Hiền — bà hiền hậu)
+- **Bà** — Bà của Tích Chu, hiền hậu, tóc bạc (giọng: An — bà mẹ trầm ấm)
 - **Bà Tiên** — Bà tiên tốt bụng chỉ đường cho Tích Chu (giọng: Tâm — cô kể chuyện cổ tích)
 
 ## Trang 1
@@ -35,6 +35,8 @@ Ngày xưa, ở một làng nhỏ ven sông, có cậu bé tên là Tích Chu. T
 Bà thương Tích Chu nhất trên đời. Có miếng ngon, bà để dành cho cháu. Trời nóng, bà ngồi quạt cho cháu ngủ. Đêm lạnh, bà ôm cháu thật chặt cho ấm.
 
 **Bà:** Cháu ngoan của bà, ngủ đi nào. Bà quạt cho cháu nhé.
+
+🔊 [Nghe trang 1](../../../media/tts-cache/8a35d0e5-3bb1-4e0c-8b54-d80ce26c041d-64a2465e-64f4-4b7a-90e3-09f7c7c4c7d5.mp3)
 
 ## Trang 2
 
@@ -62,6 +64,8 @@ Nhưng Tích Chu đang mải đá cầu với các bạn ngoài ngõ.
 
 Bà gọi mãi, gọi mãi, mà Tích Chu vẫn chưa về.
 
+🔊 [Nghe trang 3](../../../media/tts-cache/4799f9e8-7d90-4b7c-8c7c-b31085f17fd5-32dfb824-8cbe-488c-b6fd-6e2e83e9a3cb.mp3)
+
 ## Trang 4
 
 ![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5f244e86-52af-44c0-b746-2438ff25af68/p4-2d542683.webp)
@@ -73,6 +77,8 @@ Lúc ấy Tích Chu mới chạy về. Cậu thấy con chim bay vụt lên tr�
 **Tích Chu:** Bà ơi! Bà đi đâu đấy? Cháu biết lỗi rồi, bà về với cháu đi!
 
 **Bà:** Bà khát lắm, bà phải bay đi tìm nước. Bà không về được nữa rồi.
+
+🔊 [Nghe trang 4](../../../media/tts-cache/710906ef-b4f6-4c33-8599-d1ff38be826f-c7a43ade-da1e-48a8-b408-f687fab199cf.mp3)
 
 ## Trang 5
 
@@ -125,6 +131,8 @@ Phép màu đã đến! Con chim nhỏ biến mất, bà hiện ra, vẫn mái t
 **Bà:** Bà biết cháu ngoan mà. Cháu của bà giỏi lắm.
 
 Từ hôm đó, Tích Chu luôn ở bên bà, lấy nước, quạt mát cho bà mỗi ngày.
+
+🔊 [Nghe trang 8](../../../media/tts-cache/2e9d92dd-c320-4cdc-9659-b8bd9d5278d8-5557f64c-117a-4051-af4d-4c2563de0902.mp3)
 
 ---
 

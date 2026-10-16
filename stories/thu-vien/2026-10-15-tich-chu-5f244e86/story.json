@@ -33,9 +33,9 @@
    "role": "friend",
    "sort_order": 1,
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
-   "updated_at": "2026-10-15T14:34:09.448749+00:00",
-   "voice_id": "e66uATAVqVXOM9VOINfq",
-   "voice_name": "Hiền — bà hiền hậu",
+   "updated_at": "2026-10-16T06:34:10.228574+00:00",
+   "voice_id": "Q7XJO40lrbzqrkrnlA7V",
+   "voice_name": "An — bà mẹ trầm ấm",
    "voice_type": "grandma"
   },
   {
@@ -81,9 +81,9 @@
  "pages": [
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 27,
+   "audio_key": "eaaf0a29d58e92e7f6112839138344593400b7314ed54ea056d35d428b9c1180",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/8a35d0e5-3bb1-4e0c-8b54-d80ce26c041d-64a2465e-64f4-4b7a-90e3-09f7c7c4c7d5.mp3",
    "choices": [],
    "content": "[narrator]Ngày xưa, ở một làng nhỏ ven sông, có cậu bé tên là Tích Chu. Tích Chu sống cùng bà trong một ngôi nhà mái lá.[/narrator]\n[narrator]Bà thương Tích Chu nhất trên đời. Có miếng ngon, bà để dành cho cháu. Trời nóng, bà ngồi quạt cho cháu ngủ. Đêm lạnh, bà ôm cháu thật chặt cho ấm.[/narrator]\n[character:Bà]Cháu ngoan của bà, ngủ đi nào. Bà quạt cho cháu nhé.[/character]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -99,7 +99,7 @@
    "sfx_sounds": [],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:36.210317+00:00",
+   "updated_at": "2026-10-16T06:35:11.514148+00:00",
    "voice_segments": null
   },
   {
@@ -127,9 +127,9 @@
   },
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 24,
+   "audio_key": "514ddcb92ed8e76ee62d68befc7f5e832e4c65ff7e19b7c6a53b10123b898567",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/4799f9e8-7d90-4b7c-8c7c-b31085f17fd5-32dfb824-8cbe-488c-b6fd-6e2e83e9a3cb.mp3",
    "choices": [],
    "content": "[narrator]Một trưa hè nắng chang chang, bà bị ốm. Bà nằm trên giường, người nóng hầm hập, cổ họng khô rát.[/narrator]\n[character:Bà]Tích Chu ơi, cháu lấy cho bà ngụm nước. Bà khát lắm cháu ạ.[/character]\n[narrator]Nhưng Tích Chu đang mải đá cầu với các bạn ngoài ngõ.[/narrator]\n[character:Tích Chu]Bà chờ cháu một lát. Cháu chơi xong ván này đã![/character]\n[narrator]Bà gọi mãi, gọi mãi, mà Tích Chu vẫn chưa về.[/narrator]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -145,14 +145,14 @@
    "sfx_sounds": [],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:44.778342+00:00",
+   "updated_at": "2026-10-16T06:35:22.828266+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "wind",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 29,
+   "audio_key": "6b9c0dcd82a971271e90500941e927a59b7d2f0935c2074d2629c25e547e559a",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/710906ef-b4f6-4c33-8599-d1ff38be826f-c7a43ade-da1e-48a8-b408-f687fab199cf.mp3",
    "choices": [],
    "content": "[narrator]Bà khát quá. Bà ước giá mình là chim, bà sẽ bay đi tìm nước uống. Thế là bà hoá thành một con chim nhỏ, vỗ cánh phành phạch bay qua cửa sổ.[/narrator]\n[narrator]Lúc ấy Tích Chu mới chạy về. Cậu thấy con chim bay vụt lên trời.[/narrator]\n[character:Tích Chu]Bà ơi! Bà đi đâu đấy? Cháu biết lỗi rồi, bà về với cháu đi![/character]\n[character:Bà]Bà khát lắm, bà phải bay đi tìm nước. Bà không về được nữa rồi.[/character]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -170,7 +170,7 @@
    ],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:46.343751+00:00",
+   "updated_at": "2026-10-16T06:35:31.964381+00:00",
    "voice_segments": null
   },
   {
@@ -250,9 +250,9 @@
   },
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 26,
+   "audio_key": "310eefd16d8d8283faa366981e69ea4fc24697e79870aee892b489b5d107d11e",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/2e9d92dd-c320-4cdc-9659-b8bd9d5278d8-5557f64c-117a-4051-af4d-4c2563de0902.mp3",
    "choices": [],
    "content": "[narrator]Phép màu đã đến! Con chim nhỏ biến mất, bà hiện ra, vẫn mái tóc bạc và nụ cười hiền như ngày nào. Tích Chu ôm chầm lấy bà.[/narrator]\n[character:Tích Chu]Bà ơi, cháu thương bà lắm. Từ nay cháu sẽ chăm sóc bà thật tốt.[/character]\n[character:Bà]Bà biết cháu ngoan mà. Cháu của bà giỏi lắm.[/character]\n[narrator]Từ hôm đó, Tích Chu luôn ở bên bà, lấy nước, quạt mát cho bà mỗi ngày.[/narrator]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -270,7 +270,7 @@
    ],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:29:06.329309+00:00",
+   "updated_at": "2026-10-16T06:35:42.09066+00:00",
    "voice_segments": null
   }
  ],

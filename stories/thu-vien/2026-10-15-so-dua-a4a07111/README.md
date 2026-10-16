@@ -23,10 +23,10 @@
 ## Nhân vật
 
 - **Sọ Dừa** — Chàng trai mang lốt sọ dừa, tài giỏi, tốt bụng (giọng: Quang — chú trầm ấm)
-- **Bà Mẹ** — Người mẹ nghèo hiền hậu, thương con (giọng: Tâm — cô kể chuyện cổ tích)
+- **Bà Mẹ** — Người mẹ nghèo hiền hậu, thương con (giọng: An — bà mẹ trầm ấm)
 - **Phú Ông** — Phú ông giàu có, ham của (giọng: Thanh — ông hiền từ)
 - **Cô Út** — Cô con gái út hiền lành, tốt bụng (giọng: Kim — chị gái dịu dàng)
-- **Cô Cả** — Cô chị cả kiêu kỳ, ghen tị, cuối truyện biết lỗi (giọng: Hiền — bà hiền hậu)
+- **Cô Cả** — Cô chị cả kiêu kỳ, ghen tị, cuối truyện biết lỗi (giọng: Tâm — cô kể chuyện cổ tích)
 
 ## Trang 1
 
@@ -40,7 +40,7 @@ Ngày xưa, có một bà mẹ nghèo đi ở cho nhà phú ông. Một hôm và
 
 Bà thương con, đặt tên là Sọ Dừa.
 
-🔊 [Nghe trang 1](../../../media/tts-cache/11f0b012-f9a1-482b-a8fc-49139520a873-1a8a0419-de68-4ff6-a256-55a012f8644b.mp3)
+🔊 [Nghe trang 1](../../../media/tts-cache/11f0b012-f9a1-482b-a8fc-49139520a873-75f3ea59-ee90-4974-8731-045a09edc0a3.mp3)
 
 ## Trang 2
 
@@ -68,7 +68,7 @@ Một trưa, cô Út mang cơm ra sớm, thấy một chàng trai khôi ngô ng�
 
 **Cô Út:** Sọ Dừa không phải người thường đâu!
 
-🔊 [Nghe trang 3](../../../media/tts-cache/cda93102-d528-4839-b461-4e36de2b3bb0-4dab19d9-9197-461f-80aa-fa77130b296f.mp3)
+🔊 [Nghe trang 3](../../../media/tts-cache/cda93102-d528-4839-b461-4e36de2b3bb0-d81c167c-a3fe-41e4-b586-73681d992e38.mp3)
 
 ## Trang 4
 
@@ -84,7 +84,7 @@ Bà đành đến hỏi. Phú ông cười, bèn thách cưới thật nặng.
 
 Đúng ngày hẹn, nhà Sọ Dừa mang đến đủ sính lễ. Phú ông hỏi ba cô con gái, chỉ cô Út cúi đầu e thẹn nhận lời.
 
-🔊 [Nghe trang 4](../../../media/tts-cache/17e295ac-abcd-4490-9d4a-294b46dfa6e2-7b78ef53-9234-4080-b455-e1d44c10b06a.mp3)
+🔊 [Nghe trang 4](../../../media/tts-cache/17e295ac-abcd-4490-9d4a-294b46dfa6e2-28d1e300-46ad-4233-9d4e-03953201efb8.mp3)
 
 ## Trang 5
 
@@ -99,6 +99,8 @@ Ngày cưới, cỗ bàn linh đình. Đến giờ rước dâu, chẳng ai th�
 Hai cô chị đứng nhìn, vừa tiếc vừa ghen tị.
 
 **Cô Cả:** Biết thế này, ta đã nhận lời rồi!
+
+🔊 [Nghe trang 5](../../../media/tts-cache/35a32900-ffab-47e1-8ee9-6594e35ef474-fe836df4-1d03-4ffe-bacd-dd2938bd17c3.mp3)
 
 ## Trang 6
 
@@ -141,6 +143,8 @@ Cô Út bước ra. Hai chị đỏ mặt, cúi đầu xấu hổ.
 **Cô Cả:** Chị em ta sai rồi. Em tha lỗi cho các chị nhé.
 
 **Cô Út:** Các chị biết lỗi là em vui rồi. Chị em mình thương nhau như xưa nhé.
+
+🔊 [Nghe trang 8](../../../media/tts-cache/a917fcff-15ca-411a-b95d-783dbf6ebc67-eef17a8b-09bd-484d-93ab-2208c73831e5.mp3)
 
 ---
 

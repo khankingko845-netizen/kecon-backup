@@ -24,7 +24,7 @@
 
 - **Bà Mẹ** — Người mẹ nghèo tốt bụng, hay giúp người (giọng: Tâm — cô kể chuyện cổ tích)
 - **Con Trai** — Cậu con trai hiền lành, thương người (giọng: Bin — bé trai lém lỉnh)
-- **Bà Lão Ăn Xin** — Bà cụ ăn xin, thật ra là thần hiện xuống thử lòng người (giọng: Hiền — bà hiền hậu)
+- **Bà Lão Ăn Xin** — Bà cụ ăn xin, thật ra là thần hiện xuống thử lòng người (giọng: An — bà mẹ trầm ấm)
 - **Dân Làng** — Một người dân làng, lúc đầu xua đuổi bà lão, sau biết lỗi (giọng: Quang — chú trầm ấm)
 
 ## Trang 1
@@ -36,6 +36,8 @@ Ngày xưa, ở vùng núi Đông Bắc có một làng tên là Nam Mẫu. Năm
 **Bà Lão Ăn Xin:** Ai làm phúc, cho bà già này xin bát cơm với.
 
 **Dân Làng:** Đi chỗ khác đi! Đừng làm bẩn ngày hội của làng!
+
+🔊 [Nghe trang 1](../../../media/tts-cache/1bf514dc-6351-41f3-88bc-8a02de654145-7b4aa499-269f-4c8d-ba06-f91fb1e85b26.mp3)
 
 ## Trang 2
 
@@ -49,6 +51,8 @@ Bà lão đi hết nhà này sang nhà khác. Ai thấy bà cũng bịt mũi, xu
 
 Trời tối dần. Bà lão lặng lẽ chống gậy đi ra cuối làng, nơi có túp lều nhỏ của hai mẹ con nghèo.
 
+🔊 [Nghe trang 2](../../../media/tts-cache/fd4bf8d7-44c0-41a1-8372-937fd93a4877-a8914395-0c46-4c47-9ff5-11225562e036.mp3)
+
 ## Trang 3
 
 ![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p3-7ec80f62.webp)
@@ -61,6 +65,8 @@ Hai mẹ con vừa đi làm đồng về. Thấy bà lão run rẩy trước c�
 
 **Bà Lão Ăn Xin:** Cảm ơn hai mẹ con. Lòng tốt của hai người, bà sẽ không quên.
 
+🔊 [Nghe trang 3](../../../media/tts-cache/0869c5d4-91f4-44b2-8b6f-554ea3fdd718-397a0761-cda7-4016-b8f4-f8a76fc218ae.mp3)
+
 ## Trang 4
 
 ![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p4-94c68eee.webp)
@@ -72,6 +78,8 @@ Sáng ra, bà lão gọi hai mẹ con lại.
 **Bà Lão Ăn Xin:** Sắp có nước lớn. Đây là gói tro, hãy rắc quanh nhà. Còn đây là hai mảnh vỏ trấu, khi cần sẽ dùng đến. Nhớ báo cho dân làng biết.
 
 **Bà Mẹ:** Vâng, mẹ con cháu xin nhớ lời bà.
+
+🔊 [Nghe trang 4](../../../media/tts-cache/2675cdb2-e9de-4935-9377-8db8fa88a3cd-56d35483-3843-4d2a-b44c-4c95715acaae.mp3)
 
 ## Trang 5
 
@@ -124,6 +132,8 @@ Sáng hôm sau, nước không rút nữa mà đọng lại thành một cái h�
 **Bà Lão Ăn Xin:** Thương người như thể thương thân. Ai biết sẻ chia thì sẽ được bình an.
 
 Tiếng bà lão vang lên từ mặt hồ. Dân làng dựng làng mới bên hồ, từ đó ai cũng biết giúp đỡ người nghèo khó.
+
+🔊 [Nghe trang 8](../../../media/tts-cache/a30c3048-42c4-4761-91ad-f4918599d1c2-15d122f4-7ebb-4fef-a873-d11d6d69e739.mp3)
 
 ---
 

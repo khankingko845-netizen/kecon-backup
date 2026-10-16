@@ -6,7 +6,7 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
-| Cập nhật | 2026-10-16T04:27:38.466819+00:00 |
+| Cập nhật | 2026-10-16T07:50:25.139197+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 3–6 |
@@ -24,7 +24,7 @@
 
 - **Cậu Bé** — Cậu bé ham chơi, sau biết lỗi và thương mẹ (giọng: Bin — bé trai lém lỉnh)
 - **Mẹ** — Người mẹ hiền, luôn chờ con về (giọng: Tâm — cô kể chuyện cổ tích)
-- **Cây Vú Sữa** — Cây thần do mẹ trồng, biết nói (giọng: Hiền — bà hiền hậu)
+- **Cây Vú Sữa** — Cây thần do mẹ trồng, biết nói (giọng: An — bà mẹ trầm ấm)
 
 ## Trang 1
 
@@ -88,6 +88,8 @@ Bỗng cây khẽ rung. Từ các cành lá, những bông hoa trắng nở ra, 
 
 Cậu bé khẽ cắn quả. Một dòng nước trắng ngọt ngào trào ra, thơm như sữa mẹ.
 
+🔊 [Nghe trang 5](../../../media/tts-cache/2ed46af8-7e8c-455e-8b04-9399988eef24-3a672bac-c15d-4cac-91d7-afbfe76a2093.mp3)
+
 ## Trang 6
 
 ![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p6-342c4796.webp)
@@ -99,6 +101,8 @@ Cậu bé nhìn lên. Lá cây mặt trên xanh bóng, mặt dưới đỏ hoe n
 **Cậu Bé:** Con biết lỗi rồi. Con không bao giờ bỏ đi như thế nữa. Mẹ ơi, mẹ về với con đi!
 
 Tán cây xoà xuống, ôm lấy cậu như vòng tay mẹ.
+
+🔊 [Nghe trang 6](../../../media/tts-cache/98e73ad4-d317-4b5f-a06f-7f53ca39c4af-b0dabeaf-6db0-49fe-be23-abee8cf8d6f7.mp3)
 
 ## Trang 7
 
@@ -125,6 +129,8 @@ Từ đó, cậu bé chăm ngoan, ngày ngày giúp mẹ tưới cây, quét vư
 **Mẹ:** Người ta gọi đây là cây vú sữa, con ạ.
 
 **Cậu Bé:** Con sẽ luôn nhớ về nhà với mẹ!
+
+🔊 [Nghe trang 8](../../../media/tts-cache/e073d250-c811-4496-81a7-277ff6b87eaf-c73eebbc-e754-4f82-9be5-9bb58eccfffc.mp3)
 
 ---
 
