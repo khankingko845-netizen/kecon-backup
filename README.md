@@ -3,7 +3,7 @@
 > ⚠️ Repo này phải luôn để **Private**. Trong đó có truyện, tranh và giọng đọc của các gia đình.
 
 Máy chủ staging tự sao lưu lên đây mỗi ngày lúc 03:15 (giờ Việt Nam) bằng `tools/kecon_backup.py`
-(bản gốc: `deploy/prized/backup/` trong repo app; systemd `kecon-backup.timer`). Lần chạy gần nhất: **2026-10-16 11:40**.
+(bản gốc: `deploy/prized/backup/` trong repo app; systemd `kecon-backup.timer`). Lần chạy gần nhất: **2026-10-16 11:50**.
 Mỗi lần chạy đều giải mã bản chụp DB mới nhất và khôi phục thử vào một database tạm để chắc là dùng được.
 
 | Phần | Ở đâu | Dạng |
