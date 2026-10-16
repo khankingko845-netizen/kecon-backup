@@ -6,13 +6,15 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
-| Cập nhật | 2026-10-15T14:34:09.814347+00:00 |
+| Cập nhật | 2026-10-16T04:26:57.498041+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 5–8 |
 | Giọng kể | Viên - Narrative, Warm and Clear (northern) |
 | Trạng thái | published |
 | Đã xoá | không |
+
+![Bìa](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p1-7696e1e2.webp)
 
 **Giới thiệu:** Bà mẹ nghèo sinh ra cậu bé tròn như quả dừa. Sọ Dừa chăn bò giỏi, cưới được cô Út hiền lành rồi hiện thành chàng trai khôi ngô, đỗ trạng nguyên và cứu vợ khỏi đảo hoang.
 
@@ -28,6 +30,8 @@
 
 ## Trang 1
 
+![Trang 1](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p1-7696e1e2.webp)
+
 Ngày xưa, có một bà mẹ nghèo đi ở cho nhà phú ông. Một hôm vào rừng hái củi, khát quá, bà uống nước đọng trong một cái sọ dừa. Rồi bà sinh ra một đứa bé tròn lông lốc như quả dừa, không có chân tay.
 
 **Bà Mẹ:** Con ơi, con thế này thì mẹ biết nuôi con ra sao?
@@ -36,7 +40,11 @@ Ngày xưa, có một bà mẹ nghèo đi ở cho nhà phú ông. Một hôm và
 
 Bà thương con, đặt tên là Sọ Dừa.
 
+🔊 [Nghe trang 1](../../../media/tts-cache/11f0b012-f9a1-482b-a8fc-49139520a873-1a8a0419-de68-4ff6-a256-55a012f8644b.mp3)
+
 ## Trang 2
+
+![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p2-75701c14.webp)
 
 Lớn lên, Sọ Dừa vẫn lăn lông lốc khắp nhà. Một hôm, cậu xin mẹ cho đi chăn bò thuê cho phú ông.
 
@@ -46,7 +54,11 @@ Lớn lên, Sọ Dừa vẫn lăn lông lốc khắp nhà. Một hôm, cậu xin
 
 Phú ông đành nhận. Lạ thay, ngày nào Sọ Dừa cũng lùa bò ra đồng, tối lại lùa về chuồng. Đàn bò con nào con nấy no căng bụng, béo tròn.
 
+🔊 [Nghe trang 2](../../../media/tts-cache/ab639663-7eb4-4b76-bdb7-77e3c99b2835-8e7f6ec3-c3ea-4bbe-9381-2b34b781ca62.mp3)
+
 ## Trang 3
+
+![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p3-1627f936.webp)
 
 Ngày mùa, phú ông sai ba cô con gái thay nhau mang cơm cho Sọ Dừa. Hai cô chị kiêu kỳ, hắt hủi Sọ Dừa. Chỉ có cô Út hiền lành, đối đãi tử tế.
 
@@ -56,7 +68,11 @@ Một trưa, cô Út mang cơm ra sớm, thấy một chàng trai khôi ngô ng�
 
 **Cô Út:** Sọ Dừa không phải người thường đâu!
 
+🔊 [Nghe trang 3](../../../media/tts-cache/cda93102-d528-4839-b461-4e36de2b3bb0-4dab19d9-9197-461f-80aa-fa77130b296f.mp3)
+
 ## Trang 4
+
+![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p4-74ab9a9f.webp)
 
 Cuối mùa, Sọ Dừa về nhà, giục mẹ đến hỏi con gái phú ông làm vợ.
 
@@ -68,7 +84,11 @@ Bà đành đến hỏi. Phú ông cười, bèn thách cưới thật nặng.
 
 Đúng ngày hẹn, nhà Sọ Dừa mang đến đủ sính lễ. Phú ông hỏi ba cô con gái, chỉ cô Út cúi đầu e thẹn nhận lời.
 
+🔊 [Nghe trang 4](../../../media/tts-cache/17e295ac-abcd-4490-9d4a-294b46dfa6e2-7b78ef53-9234-4080-b455-e1d44c10b06a.mp3)
+
 ## Trang 5
+
+![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p5-52baaed6.webp)
 
 Ngày cưới, cỗ bàn linh đình. Đến giờ rước dâu, chẳng ai thấy Sọ Dừa đâu. Bỗng một chàng trai khôi ngô tuấn tú bước ra, cưỡi ngựa đến đón cô Út. Hoá ra Sọ Dừa đã cởi bỏ lốt dừa.
 
@@ -82,6 +102,8 @@ Hai cô chị đứng nhìn, vừa tiếc vừa ghen tị.
 
 ## Trang 6
 
+![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p6-af528a9c.webp)
+
 Sọ Dừa chăm học, đỗ trạng nguyên, rồi được vua cử đi sứ. Trước khi đi, chàng đưa vợ một con dao, hòn đá lửa và hai quả trứng gà.
 
 **Sọ Dừa:** Nàng nhớ luôn giữ những thứ này bên mình, có ngày sẽ cần đến.
@@ -92,6 +114,8 @@ Sọ Dừa chăm học, đỗ trạng nguyên, rồi được vua cử đi sứ.
 
 ## Trang 7
 
+![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p7-f91b8d99.webp)
+
 Thuyền dạt vào một hòn đảo hoang. Cô Út nhớ lời chồng dặn: cô dùng dao hái quả rừng, lấy đá lửa nhóm bếp sưởi ấm, ấp hai quả trứng nở thành một đôi gà con.
 
 **Cô Út:** Gà ơi, lớn nhanh lên làm bạn với chị nhé.
@@ -101,6 +125,8 @@ Một hôm, có chiếc thuyền lớn đi ngang qua. Chú gà trống vỗ cán
 **Sọ Dừa:** Gà nhà ai mà gáy lạ thế? Mau ghé thuyền vào xem!
 
 ## Trang 8
+
+![Trang 8](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p8-870bcc36.webp)
 
 Quan trạng nhận ra vợ, mừng rỡ đón nàng về. Chàng mở tiệc mừng, nhưng giấu vợ trong buồng. Hai cô chị đến, tranh nhau kể chuyện.
 

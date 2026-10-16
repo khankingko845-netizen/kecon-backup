@@ -6,13 +6,15 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
-| Cập nhật | 2026-10-15T14:34:09.814347+00:00 |
+| Cập nhật | 2026-10-16T04:29:42.754212+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 3–6 |
 | Giọng kể | Viên - Narrative, Warm and Clear (northern) |
 | Trạng thái | published |
 | Đã xoá | không |
+
+![Bìa](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p1-35e9ccfc.webp)
 
 **Giới thiệu:** Mẹ ốm nặng, cậu bé vào rừng tìm bông hoa trắng làm thuốc. Hoa chỉ có bốn cánh, cậu khéo léo xé mỗi cánh thành thật nhiều cánh nhỏ để mẹ khoẻ mạnh thật lâu.
 
@@ -26,6 +28,8 @@
 
 ## Trang 1
 
+![Trang 1](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p1-35e9ccfc.webp)
+
 Ngày xưa, có hai mẹ con sống trong một túp lều nhỏ bên bìa rừng. Cậu bé rất thương mẹ. Một mùa đông, mẹ bị ốm nặng, nằm mãi trên giường không dậy được.
 
 **Cậu Bé:** Mẹ ơi, con nấu cháo rồi. Mẹ ăn một chút cho khoẻ nhé.
@@ -33,6 +37,8 @@ Ngày xưa, có hai mẹ con sống trong một túp lều nhỏ bên bìa rừn
 **Mẹ:** Con ngoan của mẹ. Mẹ mệt lắm, nhưng có con bên cạnh, mẹ thấy ấm lòng.
 
 ## Trang 2
+
+![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p2-50d0a759.webp)
 
 Một hôm, có một ông lão râu tóc bạc phơ đi ngang qua, gõ cửa xin bát nước. Cậu bé vội mời ông vào nhà.
 
@@ -44,6 +50,8 @@ Một hôm, có một ông lão râu tóc bạc phơ đi ngang qua, gõ cửa xi
 
 ## Trang 3
 
+![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p3-9e397b2e.webp)
+
 Cậu bé cảm ơn ông lão rồi lên đường ngay. Cậu lội qua con suối lạnh buốt, vượt qua những bụi gai rậm rạp. Chân cậu mỏi nhừ, nhưng cậu không dừng lại.
 
 **Cậu Bé:** Mẹ ơi, mẹ chờ con nhé. Con sẽ mang thuốc về cho mẹ!
@@ -51,6 +59,8 @@ Cậu bé cảm ơn ông lão rồi lên đường ngay. Cậu lội qua con su�
 Đến chiều, cậu bé nhìn thấy một cây đa cổ thụ, rễ buông dài như mái tóc ông tiên.
 
 ## Trang 4
+
+![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p4-dff726ab.webp)
 
 Dưới gốc đa, có một bông hoa trắng muốt, chỉ có bốn cánh. Cậu bé vừa hái hoa lên thì nghe tiếng ông lão vang lên bên tai.
 
@@ -62,6 +72,8 @@ Cậu bé đếm từng cánh hoa.
 
 ## Trang 5
 
+![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p5-c923ac0d.webp)
+
 Cậu bé ngồi xuống, nghĩ mãi. Rồi mắt cậu sáng lên. Cậu nhẹ nhàng xé mỗi cánh hoa thành thật nhiều sợi nhỏ, nhỏ như sợi tóc.
 
 **Cậu Bé:** Mỗi sợi là một cánh. Nhiều cánh thế này, đếm mãi không hết, mẹ sẽ khoẻ mạnh thật lâu!
@@ -69,6 +81,8 @@ Cậu bé ngồi xuống, nghĩ mãi. Rồi mắt cậu sáng lên. Cậu nhẹ 
 Bông hoa bốn cánh giờ đã thành một bông hoa với vô số cánh nhỏ, xoè tròn như một vầng trăng trắng.
 
 ## Trang 6
+
+![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p6-defbff8d.webp)
 
 Cậu bé ôm bông hoa chạy một mạch về nhà. Cậu sắc thuốc theo lời ông lão dặn, rồi bón cho mẹ từng thìa.
 
@@ -79,6 +93,8 @@ Vài hôm sau, má mẹ hồng hào trở lại. Mẹ ngồi dậy được, r�
 **Mẹ:** Mẹ khỏi bệnh rồi con ơi! Mẹ khoẻ lắm rồi!
 
 ## Trang 7
+
+![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p7-e0dc6393.webp)
 
 Hôm ấy, ông lão lại ghé qua túp lều nhỏ. Thấy hai mẹ con vui vẻ, ông mỉm cười hiền hậu.
 
@@ -91,6 +107,8 @@ Hôm ấy, ông lão lại ghé qua túp lều nhỏ. Thấy hai mẹ con vui v�
 Ông lão gật đầu rồi bước đi, khuất dần sau rặng tre.
 
 ## Trang 8
+
+![Trang 8](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/513dda3e-4aa7-4eed-b113-eb8dea1cc5ed/p8-68bf4541.webp)
 
 Cậu bé trồng bông hoa ấy ở trước sân. Năm nào hoa cũng nở trắng muốt, cánh nhiều đếm không xuể. Người ta gọi đó là hoa cúc trắng.
 

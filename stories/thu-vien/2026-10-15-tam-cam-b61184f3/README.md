@@ -6,13 +6,15 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
-| Cập nhật | 2026-10-15T14:34:09.814347+00:00 |
+| Cập nhật | 2026-10-16T04:31:07.655287+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 5–8 |
 | Giọng kể | Viên - Narrative, Warm and Clear (northern) |
 | Trạng thái | published |
 | Đã xoá | không |
+
+![Bìa](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p1-133dd7c5.webp)
 
 **Giới thiệu:** Tấm hiền lành bị Cám lừa lấy giỏ tép, rồi mất cả cá bống. Nhờ Bụt giúp, Tấm có quần áo đẹp đi hội, đánh rơi chiếc hài và được nhà vua đón về làm hoàng hậu.
 
@@ -28,6 +30,8 @@
 
 ## Trang 1
 
+![Trang 1](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p1-133dd7c5.webp)
+
 Ngày xưa, Tấm sống cùng dì và cô em tên là Cám. Tấm hiền lành, chăm chỉ, quanh năm làm lụng vất vả. Một hôm, dì đưa cho hai chị em mỗi người một cái giỏ.
 
 **Dì:** Đứa nào bắt được đầy giỏ tép, ta thưởng cho cái yếm đỏ.
@@ -38,6 +42,8 @@ Tấm chăm chỉ mò cua bắt tép, chẳng mấy chốc đã đầy giỏ. C�
 
 ## Trang 2
 
+![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p2-526c4c46.webp)
+
 Tấm tin lời, xuống ao gội đầu. Cám liền trút hết tép của chị vào giỏ mình rồi chạy về nhà trước. Tấm lên bờ, thấy giỏ không, oà khóc nức nở.
 
 Bỗng Bụt hiện lên.
@@ -45,6 +51,8 @@ Bỗng Bụt hiện lên.
 **Bụt:** Làm sao con khóc? Con nhìn xem, trong giỏ còn một con cá bống đấy. Con mang về thả xuống giếng mà nuôi. Mỗi bữa, con để dành cơm cho bống, gọi thế này: Bống bống bang bang, lên ăn cơm vàng cơm bạc nhà ta.
 
 ## Trang 3
+
+![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p3-83172d82.webp)
 
 Tấm làm đúng lời Bụt dặn. Mỗi bữa, Tấm để dành cơm, mang ra giếng gọi bống. Bống ngoi lên đớp cơm, ngày một lớn, vảy óng ánh.
 
@@ -56,6 +64,8 @@ Dì rình thấy, bèn bảo Tấm đi chăn trâu ở đồng xa. Ở nhà, dì
 
 ## Trang 4
 
+![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p4-a030a2ab.webp)
+
 Chiều về, Tấm ra giếng gọi mãi chẳng thấy bống đâu, chỉ còn mấy chiếc vảy nổi trên mặt nước. Tấm oà khóc. Bụt lại hiện lên.
 
 **Bụt:** Con đừng khóc. Bống đã ra sông lớn, vẫn bơi lội vui vẻ. Con nhặt vảy bống, bỏ vào bốn cái hũ, chôn ở bốn chân giường. Khi nào cần, con sẽ có điều kỳ diệu.
@@ -63,6 +73,8 @@ Chiều về, Tấm ra giếng gọi mãi chẳng thấy bống đâu, chỉ cò
 **Tấm:** Con cảm ơn Bụt. Con sẽ làm đúng lời Bụt dặn.
 
 ## Trang 5
+
+![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p5-df357059.webp)
 
 Ít lâu sau, làng mở hội. Dì trộn một đấu thóc với một đấu gạo, bắt Tấm ở nhà nhặt riêng ra.
 
@@ -74,6 +86,8 @@ Dì đưa Cám đi hội. Tấm nhìn đống thóc gạo, rưng rưng nước m
 
 ## Trang 6
 
+![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p6-dc5d3187.webp)
+
 Tấm đào bốn cái hũ lên. Trong hũ có áo tứ thân, khăn nhiễu, yếm lụa và một đôi hài thêu lấp lánh. Tấm mặc vào, xinh đẹp như một nàng tiên.
 
 **Bụt:** Con đi hội đi. Nhớ giữ gìn đôi hài nhé.
@@ -84,6 +98,8 @@ Qua chỗ lội, Tấm sơ ý đánh rơi một chiếc hài xuống nước. Đ
 
 ## Trang 7
 
+![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p7-b950ef8a.webp)
+
 Nhà vua cho truyền khắp nơi: hễ người con gái nào ướm vừa chiếc hài, vua sẽ lấy làm vợ. Các cô gái thi nhau đến thử. Cám ướm mãi, chân to quá, chẳng vừa.
 
 **Cám:** Hài gì mà bé thế! Chắc là hài hỏng rồi!
@@ -93,6 +109,8 @@ Nhà vua cho truyền khắp nơi: hễ người con gái nào ướm vừa chi�
 **Nhà Vua:** Nàng chính là người ta tìm. Ta đón nàng về cung nhé!
 
 ## Trang 8
+
+![Trang 8](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p8-54e48637.webp)
 
 Tấm trở thành hoàng hậu. Dì và Cám vừa ngạc nhiên vừa xấu hổ, cúi đầu không dám nhìn Tấm.
 

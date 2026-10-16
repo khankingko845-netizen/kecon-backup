@@ -6,13 +6,15 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:10.193821+00:00 |
-| Cập nhật | 2026-10-15T14:34:10.193821+00:00 |
+| Cập nhật | 2026-10-16T04:34:04.942962+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 3–6 |
 | Giọng kể | Viên - Narrative, Warm and Clear (northern) |
 | Trạng thái | published |
 | Đã xoá | không |
+
+![Bìa](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p1-3aa9c2df.webp)
 
 **Giới thiệu:** Bo chơi rô bốt và hét thật to làm em bé Tôm thức giấc. Bà dạy hai anh em trò chơi giọng nói ba cỡ: giọng con kiến, giọng con mèo và giọng con hổ, mỗi giọng dùng một nơi.
 
@@ -26,6 +28,8 @@
 
 ## Trang 1
 
+![Trang 1](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p1-3aa9c2df.webp)
+
 Bo đang chơi rô bốt giữa phòng khách. Bo giơ rô bốt lên cao, hét thật to.
 
 **Bo:** Xông lên! Rô bốt siêu nhân đến đây! Bùm! Bùm!
@@ -34,7 +38,11 @@ Bo đang chơi rô bốt giữa phòng khách. Bo giơ rô bốt lên cao, hét 
 
 Nhưng Bo mải chơi quá, cứ hét to mãi, to mãi. Tiếng hét vang khắp cả nhà. Chú mèo Mướp đang nằm ngủ trên ghế cũng giật mình chạy biến.
 
+🔊 [Nghe trang 1](../../../media/tts-cache/e6cf547c-503e-4877-a2ef-ffd5ba8d557c-15e46a6e-a7ab-4b64-bf58-436a9aa24e3d.mp3)
+
 ## Trang 2
+
+![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p2-f6d17043.webp)
 
 Trong phòng bên, bà vừa ru em bé Tôm ngủ. Tiếng hét của Bo làm Tôm giật mình, oà khóc thật to.
 
@@ -46,13 +54,21 @@ Bà bế Tôm ra, vừa vỗ về em vừa nhìn Bo.
 
 Bo cúi đầu, hai tay vân vê con rô bốt.
 
+🔊 [Nghe trang 2](../../../media/tts-cache/051312cc-af90-48be-bbc1-21ee5a4d0350-64550a86-589f-43e2-b572-8e98a5c472c5.mp3)
+
 ## Trang 3
+
+![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p3-89416365.webp)
 
 Ru Tôm ngủ lại xong, bà ngồi xuống cạnh hai anh em.
 
 **Bà:** Bà dạy hai cháu một trò chơi nhé. Giọng nói của mình có ba cỡ. Cỡ nhỏ nhất là giọng con kiến, thì thầm thôi. Cỡ vừa là giọng con mèo, vừa đủ nghe trong nhà. Cỡ to nhất là giọng con hổ, chỉ dùng ngoài sân hoặc khi cần gọi giúp đỡ.
 
+🔊 [Nghe trang 3](../../../media/tts-cache/430b27f8-060f-47cb-a36d-26bb7c83aee9-3061dd40-bac5-4428-9c8a-5af0bc466739.mp3)
+
 ## Trang 4
+
+![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p4-dd55c3d0.webp)
 
 Hai anh em chơi thử ngay.
 
@@ -66,7 +82,11 @@ Hai anh em chơi thử ngay.
 
 Cả ba bà cháu cùng cười khúc khích. Em Tôm trong nôi vẫn ngủ ngon lành.
 
+🔊 [Nghe trang 4](../../../media/tts-cache/c33fd267-3fee-44d8-aca8-966e19b7cb05-3ab90a67-695a-4ed4-b718-5e957ae2c68c.mp3)
+
 ## Trang 5
+
+![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p5-eb31c4e2.webp)
 
 Bo lại chơi rô bốt. Chơi một lúc, giọng Bo cứ to dần lên. Su liền giơ hai tay lên đầu, làm đôi tai mèo nhắc anh.
 
@@ -76,7 +96,11 @@ Bo nhìn thấy, bật cười, rồi hạ giọng xuống ngay.
 
 **Su:** Anh Bo giỏi quá!
 
+🔊 [Nghe trang 5](../../../media/tts-cache/1cc84704-54e3-4eaa-9389-ddca60ebd154-e24edba0-d8f3-4598-8efe-a189853e9e33.mp3)
+
 ## Trang 6
+
+![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p6-d813f139.webp)
 
 Buổi chiều, bà dẫn hai anh em ra sân chơi. Sân rộng, gió mát, các bạn nhỏ chạy nhảy khắp nơi.
 
@@ -88,7 +112,11 @@ Buổi chiều, bà dẫn hai anh em ra sân chơi. Sân rộng, gió mát, các
 
 Hai anh em chạy khắp sân như hai chú hổ con, chẳng ai phải bịt tai cả.
 
+🔊 [Nghe trang 6](../../../media/tts-cache/c01ac425-74bc-4240-b3c7-1be10ec845c4-499de66d-5691-4868-8c02-bdca2cc04b64.mp3)
+
 ## Trang 7
+
+![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p7-0294fdf2.webp)
 
 Trên đường về, ba bà cháu ghé vào thư viện nhỏ đầu phố. Trong thư viện, mọi người đang lặng lẽ đọc sách.
 
@@ -98,7 +126,11 @@ Trên đường về, ba bà cháu ghé vào thư viện nhỏ đầu phố. Tro
 
 Hai anh em rón rén chọn sách, thì thầm với nhau thật khẽ. Bo tìm được một cuốn sách về những chú hổ.
 
+🔊 [Nghe trang 7](../../../media/tts-cache/569ad2e6-5da9-4734-ba23-c5879794a696-5a73b0d0-6b23-4230-93e8-f17771e23733.mp3)
+
 ## Trang 8
+
+![Trang 8](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/08c16b52-a5a3-4856-873f-37a31cca38a5/p8-c5497197.webp)
 
 Tối hôm ấy, em Tôm ngủ một giấc thật ngon. Bà khen Bo đã nhớ dùng giọng con mèo suốt buổi tối.
 
@@ -107,6 +139,8 @@ Tối hôm ấy, em Tôm ngủ một giấc thật ngon. Bà khen Bo đã nhớ 
 **Bà:** Thế là cháu biết giữ yên tĩnh cho cả nhà rồi đấy.
 
 Bé ơi, bé thử nói giọng con kiến, giọng con mèo, rồi giọng con hổ xem nào!
+
+🔊 [Nghe trang 8](../../../media/tts-cache/d36f7fe3-dc22-45e6-b994-5dad7548f0cc-83fb8c23-f9b4-46b9-b091-f84153bbe1a0.mp3)
 
 ---
 

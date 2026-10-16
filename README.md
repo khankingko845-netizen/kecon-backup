@@ -3,13 +3,13 @@
 > ⚠️ Repo này phải luôn để **Private**. Trong đó có truyện, tranh và giọng đọc của các gia đình.
 
 Máy chủ staging tự sao lưu lên đây mỗi ngày lúc 03:15 (giờ Việt Nam) bằng `tools/kecon_backup.py`
-(bản gốc: `deploy/prized/backup/` trong repo app; systemd `kecon-backup.timer`). Lần chạy gần nhất: **2026-10-16 03:19**.
+(bản gốc: `deploy/prized/backup/` trong repo app; systemd `kecon-backup.timer`). Lần chạy gần nhất: **2026-10-16 11:40**.
 Mỗi lần chạy đều giải mã bản chụp DB mới nhất và khôi phục thử vào một database tạm để chắc là dùng được.
 
 | Phần | Ở đâu | Dạng |
 | --- | --- | --- |
 | Truyện (40 truyện, 0 truyện gia đình) | [`stories/`](stories/README.md) | đọc được: `README.md` + `story.json` (mọi cột) |
-| Tranh + audio của truyện (0 file, 0 MB) | `media/<bucket>/<đường dẫn trong Storage>` | file gốc, `media/manifest.json` ghi sha256 |
+| Tranh + audio của truyện (603 file, 107 MB) | `media/<bucket>/<đường dẫn trong Storage>` | file gốc, `media/manifest.json` ghi sha256 |
 | Ghi âm giọng bố mẹ (0 file) | `encrypted/recordings.tar.gpg` | **mã hoá** AES-256 |
 | Cấu hình máy chủ (.env, secrets, systemd) | `encrypted/server-config.tar.gpg` | **mã hoá** AES-256 |
 | Toàn bộ cơ sở dữ liệu (tài khoản, hộ, nhiệm vụ, …) | nhánh [`db-snapshots`](../../tree/db-snapshots) | **mã hoá** AES-256, 7 ngày + 4 tuần + 6 tháng |

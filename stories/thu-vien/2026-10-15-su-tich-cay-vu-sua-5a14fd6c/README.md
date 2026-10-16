@@ -6,13 +6,15 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
-| Cập nhật | 2026-10-15T14:34:09.814347+00:00 |
+| Cập nhật | 2026-10-16T04:27:38.466819+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 3–6 |
 | Giọng kể | Viên - Narrative, Warm and Clear (northern) |
 | Trạng thái | published |
 | Đã xoá | không |
+
+![Bìa](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p1-913e8b09.webp)
 
 **Giới thiệu:** Cậu bé ham chơi giận mẹ bỏ đi. Khi đói rét trở về, mẹ đã đi tìm con, chỉ còn cây mẹ trồng nở hoa, kết quả ngọt như sữa mẹ. Cậu biết lỗi và mẹ trở về.
 
@@ -26,6 +28,8 @@
 
 ## Trang 1
 
+![Trang 1](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p1-913e8b09.webp)
+
 Ngày xưa, có một cậu bé sống cùng mẹ trong ngôi nhà nhỏ có mảnh vườn xanh. Cậu bé rất ham chơi. Một hôm, mải chơi quên về, cậu bị mẹ nhắc nhở.
 
 **Mẹ:** Con ơi, đi chơi phải nhớ giờ về, kẻo mẹ lo lắm.
@@ -35,6 +39,8 @@ Ngày xưa, có một cậu bé sống cùng mẹ trong ngôi nhà nhỏ có m�
 Nói rồi, cậu vùng vằng chạy ra khỏi nhà.
 
 ## Trang 2
+
+![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p2-556b622b.webp)
 
 Cậu bé đi mãi, đi mãi. Cậu đuổi bướm ngoài đồng, hái hoa trong rừng, lội suối bắt cá con.
 
@@ -46,6 +52,8 @@ Cậu bé đi mãi, đi mãi. Cậu đuổi bướm ngoài đồng, hái hoa tro
 
 ## Trang 3
 
+![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p3-0018b765.webp)
+
 Rồi một tối, trời trở lạnh. Cậu bé vừa đói vừa rét, ngồi co ro dưới gốc cây. Chẳng có ai nấu cơm, chẳng có ai đắp chăn cho cậu.
 
 **Cậu Bé:** Mẹ ơi... con nhớ mẹ quá. Con muốn về nhà.
@@ -53,6 +61,8 @@ Rồi một tối, trời trở lạnh. Cậu bé vừa đói vừa rét, ngồi
 Cậu nhớ bát cơm nóng mẹ nấu, nhớ bàn tay mẹ xoa lưng mỗi tối. Cậu đứng dậy, lần theo đường cũ trở về.
 
 ## Trang 4
+
+![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p4-a1beade6.webp)
 
 Về đến nhà, cánh cổng khép hờ, căn nhà vắng tanh. Cậu bé chạy khắp nơi tìm mẹ.
 
@@ -62,6 +72,8 @@ Chỉ có tiếng gió thổi xào xạc. Mẹ đã đi tìm cậu ở những l
 
 ## Trang 5
 
+![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p5-79299fb2.webp)
+
 Bỗng cây khẽ rung. Từ các cành lá, những bông hoa trắng nở ra, rồi kết thành quả tròn, căng mọng. Một quả rơi vào tay cậu bé.
 
 **Cây Vú Sữa:** Cháu ơi, đừng khóc. Mẹ cháu đã trồng ta và tưới ta mỗi ngày, mong cháu về.
@@ -69,6 +81,8 @@ Bỗng cây khẽ rung. Từ các cành lá, những bông hoa trắng nở ra, 
 Cậu bé khẽ cắn quả. Một dòng nước trắng ngọt ngào trào ra, thơm như sữa mẹ.
 
 ## Trang 6
+
+![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p6-342c4796.webp)
 
 Cậu bé nhìn lên. Lá cây mặt trên xanh bóng, mặt dưới đỏ hoe như mắt mẹ khóc chờ con.
 
@@ -80,6 +94,8 @@ Tán cây xoà xuống, ôm lấy cậu như vòng tay mẹ.
 
 ## Trang 7
 
+![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p7-b0a10d41.webp)
+
 Sáng hôm sau, cậu bé ra cổng ngóng, đúng như mẹ vẫn làm ngày trước. Từ cuối con đường làng, một bóng người quen thuộc đang bước về.
 
 **Mẹ:** Con ơi! Con về rồi! Mẹ tìm con mãi!
@@ -89,6 +105,8 @@ Sáng hôm sau, cậu bé ra cổng ngóng, đúng như mẹ vẫn làm ngày tr
 Hai mẹ con ôm nhau thật chặt, nước mắt mừng rơi lã chã.
 
 ## Trang 8
+
+![Trang 8](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p8-11083ede.webp)
 
 Từ đó, cậu bé chăm ngoan, ngày ngày giúp mẹ tưới cây, quét vườn. Mùa quả chín, hai mẹ con hái những quả tròn căng, chia cho cả xóm.
 

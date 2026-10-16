@@ -6,13 +6,15 @@
 | Nhóm | Truyện thư viện |
 | Nguồn | manual |
 | Tạo lúc | 2026-10-15T14:34:09.814347+00:00 |
-| Cập nhật | 2026-10-15T14:34:09.814347+00:00 |
+| Cập nhật | 2026-10-16T04:29:01.502845+00:00 |
 | Số trang | 8 |
 | Ngôn ngữ | vi |
 | Tuổi | 5–8 |
 | Giọng kể | Viên - Narrative, Warm and Clear (northern) |
 | Trạng thái | published |
 | Đã xoá | không |
+
+![Bìa](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p1-f9c774e9.webp)
 
 **Giới thiệu:** Ngày hội, cả làng xua đuổi bà lão ăn xin, chỉ hai mẹ con nghèo cho bà ăn và ngủ nhờ. Bà lão là thần báo trước nước lớn. Hai mẹ con dùng thuyền vỏ trấu cứu cả làng, nơi ấy thành hồ Ba Bể.
 
@@ -27,6 +29,8 @@
 
 ## Trang 1
 
+![Trang 1](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p1-f9c774e9.webp)
+
 Ngày xưa, ở vùng núi Đông Bắc có một làng tên là Nam Mẫu. Năm ấy, làng mở hội lớn, cỗ bàn bày khắp sân, tiếng khèn tiếng sáo vang xa. Giữa ngày hội, có một bà lão ăn xin gầy gò, quần áo rách rưới, chống gậy đi đến.
 
 **Bà Lão Ăn Xin:** Ai làm phúc, cho bà già này xin bát cơm với.
@@ -34,6 +38,8 @@ Ngày xưa, ở vùng núi Đông Bắc có một làng tên là Nam Mẫu. Năm
 **Dân Làng:** Đi chỗ khác đi! Đừng làm bẩn ngày hội của làng!
 
 ## Trang 2
+
+![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p2-a4624ac0.webp)
 
 Bà lão đi hết nhà này sang nhà khác. Ai thấy bà cũng bịt mũi, xua tay. Có nhà còn đóng sập cửa lại.
 
@@ -45,6 +51,8 @@ Trời tối dần. Bà lão lặng lẽ chống gậy đi ra cuối làng, nơi
 
 ## Trang 3
 
+![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p3-7ec80f62.webp)
+
 Hai mẹ con vừa đi làm đồng về. Thấy bà lão run rẩy trước cửa, cậu con trai vội đỡ bà vào nhà.
 
 **Con Trai:** Bà ơi, bà vào đây ngồi cho ấm. Mẹ ơi, nhà mình còn gạo không mẹ?
@@ -54,6 +62,8 @@ Hai mẹ con vừa đi làm đồng về. Thấy bà lão run rẩy trước c�
 **Bà Lão Ăn Xin:** Cảm ơn hai mẹ con. Lòng tốt của hai người, bà sẽ không quên.
 
 ## Trang 4
+
+![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p4-94c68eee.webp)
 
 Đêm ấy, cậu bé thức giấc, thấy chỗ bà lão nằm sáng rực. Một con rồng vàng óng ánh đang cuộn mình ngủ ngon lành. Cậu dụi mắt nhìn lại, chỉ thấy bà lão nằm đó.
 
@@ -65,6 +75,8 @@ Sáng ra, bà lão gọi hai mẹ con lại.
 
 ## Trang 5
 
+![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p5-7803ec3a.webp)
+
 Bà lão chống gậy ra đầu làng, cắm cây gậy xuống đất rồi biến mất. Từ chỗ ấy, một dòng nước phun lên, mỗi lúc một mạnh.
 
 **Bà Mẹ:** Bà con ơi, nước sắp lên to rồi! Mau mau lên chỗ cao!
@@ -74,6 +86,8 @@ Bà lão chống gậy ra đầu làng, cắm cây gậy xuống đất rồi bi
 Nước dâng cao, tràn khắp đường làng. Mọi người hoảng hốt, bám vào cây, leo lên mái nhà.
 
 ## Trang 6
+
+![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p6-8d565d69.webp)
 
 Riêng chỗ nhà hai mẹ con, nhờ có gói tro, nền đất cứ nổi cao lên mãi. Cậu bé nhớ lời bà lão, thả hai mảnh vỏ trấu xuống nước. Vỏ trấu bỗng hoá thành hai chiếc thuyền lớn.
 
@@ -85,6 +99,8 @@ Hai mẹ con mỗi người một thuyền, chèo thẳng ra giữa dòng nướ
 
 ## Trang 7
 
+![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p7-08f62669.webp)
+
 Hai chiếc thuyền đi khắp nơi, đón từng người, từng em bé, từng cụ già lên thuyền. Đến tối, cả làng đều đã được cứu, không thiếu một ai.
 
 **Dân Làng:** Hôm qua chúng tôi xua đuổi bà cụ, chỉ có hai mẹ con chị thương người. Chúng tôi xấu hổ quá.
@@ -94,6 +110,8 @@ Hai chiếc thuyền đi khắp nơi, đón từng người, từng em bé, từ
 Mọi người ngồi sát bên nhau trên thuyền, nhìn nước mênh mông.
 
 ## Trang 8
+
+![Trang 8](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p8-4397e1ad.webp)
 
 Sáng hôm sau, nước không rút nữa mà đọng lại thành một cái hồ rộng mênh mông, xanh biếc. Người ta gọi đó là hồ Ba Bể. Nền nhà hai mẹ con nổi lên thành một hòn đảo nhỏ giữa hồ.
 
