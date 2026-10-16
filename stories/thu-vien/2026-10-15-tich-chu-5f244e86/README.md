@@ -46,6 +46,8 @@ Sáng, cậu thả diều ngoài đồng. Chiều, cậu bắt chuồn chuồn b
 
 **Tích Chu:** Diều ơi, bay cao nữa đi! Chơi thêm chút nữa thôi mà!
 
+🔊 [Nghe trang 2](../../../media/tts-cache/64d1e8d3-9c78-4e55-ba67-cb16880918e8-d35e6930-e52b-4acb-b096-12f5019a5c5f.mp3)
+
 ## Trang 3
 
 ![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5f244e86-52af-44c0-b746-2438ff25af68/p3-28d39342.webp)
@@ -84,6 +86,8 @@ Tích Chu ngồi khóc nức nở dưới gốc cây. Bỗng có ánh sáng lấ
 
 **Bà Tiên:** Nếu cháu thương bà thật, hãy đến suối tiên ở cuối khu rừng. Lấy nước suối về cho bà uống, bà sẽ trở lại thành người.
 
+🔊 [Nghe trang 5](../../../media/tts-cache/75d8e193-fa3b-41c2-a113-7de9d677480d-79fbdb71-03f9-4285-8cc3-69cdcb81352e.mp3)
+
 ## Trang 6
 
 ![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5f244e86-52af-44c0-b746-2438ff25af68/p6-02fe0f37.webp)
@@ -96,6 +100,8 @@ Trời tối dần. Cậu hơi sợ, nhưng nghĩ đến bà, cậu lại bướ
 
 Cuối cùng, cậu nghe tiếng nước chảy róc rách. Suối tiên kia rồi!
 
+🔊 [Nghe trang 6](../../../media/tts-cache/440f03ee-1722-4471-9d19-704c05b7cb64-a80c4d7d-ece3-4fb9-9e49-633d6067f4f7.mp3)
+
 ## Trang 7
 
 ![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5f244e86-52af-44c0-b746-2438ff25af68/p7-b314f5d8.webp)
@@ -105,6 +111,8 @@ Nước suối trong veo, mát lạnh. Tích Chu cẩn thận múc đầy một 
 **Tích Chu:** Bà ơi! Cháu có nước suối tiên đây rồi! Bà về uống nước đi bà!
 
 Con chim nhỏ nghe thấy, liền bay sà xuống, đậu trên tay Tích Chu. Chim uống một ngụm, hai ngụm, rồi ba ngụm nước mát.
+
+🔊 [Nghe trang 7](../../../media/tts-cache/07f0a87b-ef5c-4f35-84a9-26295a8487e7-030a6361-2bf9-440c-b3a9-da3bd164b4bc.mp3)
 
 ## Trang 8
 

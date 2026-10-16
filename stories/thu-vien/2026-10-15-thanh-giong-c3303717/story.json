@@ -248,9 +248,9 @@
   },
   {
    "ambient_sound": "wind",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 24,
+   "audio_key": "c3f40921c0892a136e43c9b79005642b4ed1dcda2fb193cc1fcc17eb5d5b7a28",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/36fc4a20-01c6-4ccc-bf51-e82c1261a050-dfa100e8-376d-495d-838f-59545a594534.mp3",
    "choices": [],
    "content": "[narrator]Đánh tan giặc rồi, Gióng một mình một ngựa lên đỉnh núi Sóc. Chàng cởi áo giáp sắt để lại, rồi cả người lẫn ngựa từ từ bay lên trời.[/narrator]\n[narrator]Vua nhớ công ơn, phong cho Gióng là Phù Đổng Thiên Vương. Hằng năm, vào tháng Tư âm lịch, làng Gióng lại mở hội để nhớ ơn người anh hùng nhỏ tuổi.[/narrator]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -266,7 +266,7 @@
    "sfx_sounds": [],
    "story_id": "c3303717-04d0-4414-842c-8787b09155a7",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:23.609155+00:00",
+   "updated_at": "2026-10-16T05:38:06.559321+00:00",
    "voice_segments": null
   }
  ],

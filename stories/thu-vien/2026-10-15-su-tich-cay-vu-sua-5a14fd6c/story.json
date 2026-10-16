@@ -81,9 +81,9 @@
  "pages": [
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 24,
+   "audio_key": "74f92460b18eaa2cf1a2b3c5ab33d4df2855d307956fe06fdc30dd94bbd230ee",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/1675ec91-ee6d-4c66-9b1c-426427055425-f74e34f8-4c0d-405d-a402-384ce08eba56.mp3",
    "choices": [],
    "content": "[narrator]Ngày xưa, có một cậu bé sống cùng mẹ trong ngôi nhà nhỏ có mảnh vườn xanh. Cậu bé rất ham chơi. Một hôm, mải chơi quên về, cậu bị mẹ nhắc nhở.[/narrator]\n[character:Mẹ]Con ơi, đi chơi phải nhớ giờ về, kẻo mẹ lo lắm.[/character]\n[character:Cậu Bé]Mẹ toàn nhắc con thôi! Con đi chơi thật xa, không về nữa![/character]\n[narrator]Nói rồi, cậu vùng vằng chạy ra khỏi nhà.[/narrator]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -101,14 +101,14 @@
    ],
    "story_id": "5a14fd6c-e922-446a-8920-f972e59b4be4",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:37.81809+00:00",
+   "updated_at": "2026-10-16T05:39:27.298476+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "forest",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 25,
+   "audio_key": "b440a1927c794310f8a45b03f205592dd87524fcfcf6865a83b7e38ae9c1966a",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/f92ba364-73ac-44db-bff7-913a8ad19da3-34491e9b-31da-401c-85ab-7708ea15b03e.mp3",
    "choices": [],
    "content": "[narrator]Cậu bé đi mãi, đi mãi. Cậu đuổi bướm ngoài đồng, hái hoa trong rừng, lội suối bắt cá con.[/narrator]\n[character:Cậu Bé]Vui quá! Ở đây chẳng ai nhắc mình phải về nhà cả![/character]\n[narrator]Ở nhà, ngày nào mẹ cũng ra cổng ngóng con. Mẹ trồng một cây non ở góc vườn, ngày ngày tưới nước.[/narrator]\n[character:Mẹ]Cây ơi, lớn nhanh lên. Con mẹ về, cây cho con mẹ quả ngọt nhé.[/character]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -124,14 +124,14 @@
    "sfx_sounds": [],
    "story_id": "5a14fd6c-e922-446a-8920-f972e59b4be4",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:38.347908+00:00",
+   "updated_at": "2026-10-16T05:39:38.948484+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "night",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 24,
+   "audio_key": "522777d26fa1367fce227dd16fda8b1996c3a0c3a9bc1ffd5ead1922d3c32f56",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/7eb9c9b4-6534-4006-9214-0d9c06b145fa-6a30f5e0-43e8-4eef-b3c0-abde6f924fa2.mp3",
    "choices": [],
    "content": "[narrator]Rồi một tối, trời trở lạnh. Cậu bé vừa đói vừa rét, ngồi co ro dưới gốc cây. Chẳng có ai nấu cơm, chẳng có ai đắp chăn cho cậu.[/narrator]\n[character:Cậu Bé]Mẹ ơi... con nhớ mẹ quá. Con muốn về nhà.[/character]\n[narrator]Cậu nhớ bát cơm nóng mẹ nấu, nhớ bàn tay mẹ xoa lưng mỗi tối. Cậu đứng dậy, lần theo đường cũ trở về.[/narrator]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -147,14 +147,14 @@
    "sfx_sounds": [],
    "story_id": "5a14fd6c-e922-446a-8920-f972e59b4be4",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:47.961907+00:00",
+   "updated_at": "2026-10-16T05:39:47.455714+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "wind",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 25,
+   "audio_key": "9407ed040d880b52482cb3bbc689e8c5ee839f8d5a91632dc6ef25544d1a26ce",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/36095af3-54da-4d14-b2f3-0a6b6b20b7c7-a62fdd49-0f36-4d69-9fe3-8aa956d20aed.mp3",
    "choices": [],
    "content": "[narrator]Về đến nhà, cánh cổng khép hờ, căn nhà vắng tanh. Cậu bé chạy khắp nơi tìm mẹ.[/narrator]\n[character:Cậu Bé]Mẹ ơi! Mẹ ở đâu? Con về rồi đây![/character]\n[narrator]Chỉ có tiếng gió thổi xào xạc. Mẹ đã đi tìm cậu ở những làng xa. Ở góc vườn, cây non ngày trước nay đã cao lớn, tán lá xanh rì. Cậu ôm lấy thân cây, oà khóc.[/narrator]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -172,7 +172,7 @@
    ],
    "story_id": "5a14fd6c-e922-446a-8920-f972e59b4be4",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:47.477122+00:00",
+   "updated_at": "2026-10-16T05:39:56.642096+00:00",
    "voice_segments": null
   },
   {
@@ -225,9 +225,9 @@
   },
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 23,
+   "audio_key": "d32031ea96f8c2a65d9aef3a25b9e6da0ae797eac40972bd21b1e82f6379731a",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/b0fc45e8-4e1a-459a-9045-e2d25c196455-3d9da1a9-16fd-4586-b1fd-97df1000b613.mp3",
    "choices": [],
    "content": "[narrator]Sáng hôm sau, cậu bé ra cổng ngóng, đúng như mẹ vẫn làm ngày trước. Từ cuối con đường làng, một bóng người quen thuộc đang bước về.[/narrator]\n[character:Mẹ]Con ơi! Con về rồi! Mẹ tìm con mãi![/character]\n[character:Cậu Bé]Mẹ ơi! Con xin lỗi mẹ. Con thương mẹ nhất trên đời![/character]\n[narrator]Hai mẹ con ôm nhau thật chặt, nước mắt mừng rơi lã chã.[/narrator]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -245,7 +245,7 @@
    ],
    "story_id": "5a14fd6c-e922-446a-8920-f972e59b4be4",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:10.219157+00:00",
+   "updated_at": "2026-10-16T05:40:07.044492+00:00",
    "voice_segments": null
   },
   {

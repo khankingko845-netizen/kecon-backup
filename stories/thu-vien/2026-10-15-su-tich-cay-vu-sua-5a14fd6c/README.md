@@ -38,6 +38,8 @@ Ngày xưa, có một cậu bé sống cùng mẹ trong ngôi nhà nhỏ có m�
 
 Nói rồi, cậu vùng vằng chạy ra khỏi nhà.
 
+🔊 [Nghe trang 1](../../../media/tts-cache/1675ec91-ee6d-4c66-9b1c-426427055425-f74e34f8-4c0d-405d-a402-384ce08eba56.mp3)
+
 ## Trang 2
 
 ![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p2-556b622b.webp)
@@ -50,6 +52,8 @@ Cậu bé đi mãi, đi mãi. Cậu đuổi bướm ngoài đồng, hái hoa tro
 
 **Mẹ:** Cây ơi, lớn nhanh lên. Con mẹ về, cây cho con mẹ quả ngọt nhé.
 
+🔊 [Nghe trang 2](../../../media/tts-cache/f92ba364-73ac-44db-bff7-913a8ad19da3-34491e9b-31da-401c-85ab-7708ea15b03e.mp3)
+
 ## Trang 3
 
 ![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p3-0018b765.webp)
@@ -60,6 +64,8 @@ Rồi một tối, trời trở lạnh. Cậu bé vừa đói vừa rét, ngồi
 
 Cậu nhớ bát cơm nóng mẹ nấu, nhớ bàn tay mẹ xoa lưng mỗi tối. Cậu đứng dậy, lần theo đường cũ trở về.
 
+🔊 [Nghe trang 3](../../../media/tts-cache/7eb9c9b4-6534-4006-9214-0d9c06b145fa-6a30f5e0-43e8-4eef-b3c0-abde6f924fa2.mp3)
+
 ## Trang 4
 
 ![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/5a14fd6c-e922-446a-8920-f972e59b4be4/p4-a1beade6.webp)
@@ -69,6 +75,8 @@ Về đến nhà, cánh cổng khép hờ, căn nhà vắng tanh. Cậu bé ch�
 **Cậu Bé:** Mẹ ơi! Mẹ ở đâu? Con về rồi đây!
 
 Chỉ có tiếng gió thổi xào xạc. Mẹ đã đi tìm cậu ở những làng xa. Ở góc vườn, cây non ngày trước nay đã cao lớn, tán lá xanh rì. Cậu ôm lấy thân cây, oà khóc.
+
+🔊 [Nghe trang 4](../../../media/tts-cache/36095af3-54da-4d14-b2f3-0a6b6b20b7c7-a62fdd49-0f36-4d69-9fe3-8aa956d20aed.mp3)
 
 ## Trang 5
 
@@ -103,6 +111,8 @@ Sáng hôm sau, cậu bé ra cổng ngóng, đúng như mẹ vẫn làm ngày tr
 **Cậu Bé:** Mẹ ơi! Con xin lỗi mẹ. Con thương mẹ nhất trên đời!
 
 Hai mẹ con ôm nhau thật chặt, nước mắt mừng rơi lã chã.
+
+🔊 [Nghe trang 7](../../../media/tts-cache/b0fc45e8-4e1a-459a-9045-e2d25c196455-3d9da1a9-16fd-4586-b1fd-97df1000b613.mp3)
 
 ## Trang 8
 

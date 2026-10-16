@@ -124,6 +124,8 @@ Giặc Ân thua to, bỏ chạy về nước, không dám quay lại nữa.
 
 Vua nhớ công ơn, phong cho Gióng là Phù Đổng Thiên Vương. Hằng năm, vào tháng Tư âm lịch, làng Gióng lại mở hội để nhớ ơn người anh hùng nhỏ tuổi.
 
+🔊 [Nghe trang 8](../../../media/tts-cache/36fc4a20-01c6-4ccc-bf51-e82c1261a050-dfa100e8-376d-495d-838f-59545a594534.mp3)
+
 ---
 
 Bản đầy đủ (mọi cột trong cơ sở dữ liệu): [story.json](story.json)

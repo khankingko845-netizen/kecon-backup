@@ -235,9 +235,9 @@
   },
   {
    "ambient_sound": "waves",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 32,
+   "audio_key": "a042bc90a21facfeae054003209744c813197685f91e14d173b2d2c0ae64c565",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/beb2f0d2-a37f-4fcb-a4dc-61861170f30a-f16da621-08a1-4568-a357-46df169d0d31.mp3",
    "choices": [],
    "content": "[narrator]Sọ Dừa chăm học, đỗ trạng nguyên, rồi được vua cử đi sứ. Trước khi đi, chàng đưa vợ một con dao, hòn đá lửa và hai quả trứng gà.[/narrator]\n[character:Sọ Dừa]Nàng nhớ luôn giữ những thứ này bên mình, có ngày sẽ cần đến.[/character]\n[narrator]Ở nhà, hai cô chị ghen tị, rủ em đi chơi thuyền. Hai chị lên bờ trước rồi đẩy chiếc thuyền nhỏ ra xa, bỏ cô Út một mình. Thuyền trôi mãi, trôi ra biển lớn.[/narrator]\n[character:Cô Út]Chị ơi! Chị ơi! Đợi em với![/character]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -253,14 +253,14 @@
    "sfx_sounds": [],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:16.896424+00:00",
+   "updated_at": "2026-10-16T05:39:05.507961+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "waves",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 30,
+   "audio_key": "72a67367ec17f34eab9abb2e7a7e5b020a0e5bcab1a67c26fff0c06afb568885",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/ce173319-dcf7-46d8-9788-52b3365852c2-55f1f90f-ad63-4b3b-9212-623d44291bc4.mp3",
    "choices": [],
    "content": "[narrator]Thuyền dạt vào một hòn đảo hoang. Cô Út nhớ lời chồng dặn: cô dùng dao hái quả rừng, lấy đá lửa nhóm bếp sưởi ấm, ấp hai quả trứng nở thành một đôi gà con.[/narrator]\n[character:Cô Út]Gà ơi, lớn nhanh lên làm bạn với chị nhé.[/character]\n[narrator]Một hôm, có chiếc thuyền lớn đi ngang qua. Chú gà trống vỗ cánh gáy vang: Ò ó o, phải thuyền quan trạng rước cô tôi về![/narrator]\n[character:Sọ Dừa]Gà nhà ai mà gáy lạ thế? Mau ghé thuyền vào xem![/character]",
    "created_at": "2026-10-15T14:34:09.814347+00:00",
@@ -276,7 +276,7 @@
    "sfx_sounds": [],
    "story_id": "a4a07111-6c74-42a3-910f-ae72dd29e325",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:27:25.933928+00:00",
+   "updated_at": "2026-10-16T05:39:16.617134+00:00",
    "voice_segments": null
   },
   {

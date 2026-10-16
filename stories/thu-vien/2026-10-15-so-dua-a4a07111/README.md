@@ -112,6 +112,8 @@ Sọ Dừa chăm học, đỗ trạng nguyên, rồi được vua cử đi sứ.
 
 **Cô Út:** Chị ơi! Chị ơi! Đợi em với!
 
+🔊 [Nghe trang 6](../../../media/tts-cache/beb2f0d2-a37f-4fcb-a4dc-61861170f30a-f16da621-08a1-4568-a357-46df169d0d31.mp3)
+
 ## Trang 7
 
 ![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/a4a07111-6c74-42a3-910f-ae72dd29e325/p7-f91b8d99.webp)
@@ -123,6 +125,8 @@ Thuyền dạt vào một hòn đảo hoang. Cô Út nhớ lời chồng dặn: 
 Một hôm, có chiếc thuyền lớn đi ngang qua. Chú gà trống vỗ cánh gáy vang: Ò ó o, phải thuyền quan trạng rước cô tôi về!
 
 **Sọ Dừa:** Gà nhà ai mà gáy lạ thế? Mau ghé thuyền vào xem!
+
+🔊 [Nghe trang 7](../../../media/tts-cache/ce173319-dcf7-46d8-9788-52b3365852c2-55f1f90f-ad63-4b3b-9212-623d44291bc4.mp3)
 
 ## Trang 8
 

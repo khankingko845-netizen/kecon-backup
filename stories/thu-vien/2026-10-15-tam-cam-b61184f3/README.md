@@ -40,6 +40,8 @@ Tấm chăm chỉ mò cua bắt tép, chẳng mấy chốc đã đầy giỏ. C�
 
 **Cám:** Chị Tấm ơi, đầu chị lấm bùn rồi. Chị lên gội đầu đi kẻo về mẹ mắng!
 
+🔊 [Nghe trang 1](../../../media/tts-cache/ff4d09f1-7e23-494a-8759-85f44b67b306-1bd63d37-35c9-44b4-aa1d-fb90297153d0.mp3)
+
 ## Trang 2
 
 ![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p2-526c4c46.webp)
@@ -49,6 +51,8 @@ Tấm tin lời, xuống ao gội đầu. Cám liền trút hết tép của ch�
 Bỗng Bụt hiện lên.
 
 **Bụt:** Làm sao con khóc? Con nhìn xem, trong giỏ còn một con cá bống đấy. Con mang về thả xuống giếng mà nuôi. Mỗi bữa, con để dành cơm cho bống, gọi thế này: Bống bống bang bang, lên ăn cơm vàng cơm bạc nhà ta.
+
+🔊 [Nghe trang 2](../../../media/tts-cache/0167eea9-7ea0-488a-8ef8-200dac706a2a-cbcec462-fc2d-4010-9ff2-5d37ee6c3ed2.mp3)
 
 ## Trang 3
 
@@ -62,6 +66,8 @@ Dì rình thấy, bèn bảo Tấm đi chăn trâu ở đồng xa. Ở nhà, dì
 
 **Cám:** Ai bảo chị giấu bống riêng một mình!
 
+🔊 [Nghe trang 3](../../../media/tts-cache/80927bb6-06e8-4d3e-82d3-aa9d89091774-912f1f27-76eb-4434-b070-d00d3bd81252.mp3)
+
 ## Trang 4
 
 ![Trang 4](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p4-a030a2ab.webp)
@@ -71,6 +77,8 @@ Chiều về, Tấm ra giếng gọi mãi chẳng thấy bống đâu, chỉ cò
 **Bụt:** Con đừng khóc. Bống đã ra sông lớn, vẫn bơi lội vui vẻ. Con nhặt vảy bống, bỏ vào bốn cái hũ, chôn ở bốn chân giường. Khi nào cần, con sẽ có điều kỳ diệu.
 
 **Tấm:** Con cảm ơn Bụt. Con sẽ làm đúng lời Bụt dặn.
+
+🔊 [Nghe trang 4](../../../media/tts-cache/f7094153-5fd4-4f19-960c-6f95daf55e1b-6c884963-9760-4c53-9dfe-ae2baefe3d75.mp3)
 
 ## Trang 5
 
@@ -84,6 +92,8 @@ Dì đưa Cám đi hội. Tấm nhìn đống thóc gạo, rưng rưng nước m
 
 **Tấm:** Cảm ơn các bạn chim sẻ! Cảm ơn Bụt!
 
+🔊 [Nghe trang 5](../../../media/tts-cache/93e683f1-0cb4-4dfe-afb4-b9c8bc10ae32-fb646a14-ad21-4f9d-9bd6-6606e32cd179.mp3)
+
 ## Trang 6
 
 ![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p6-dc5d3187.webp)
@@ -96,6 +106,8 @@ Qua chỗ lội, Tấm sơ ý đánh rơi một chiếc hài xuống nước. Đ
 
 **Nhà Vua:** Quân lính đâu, xuống xem dưới nước có gì!
 
+🔊 [Nghe trang 6](../../../media/tts-cache/ab9b3864-a627-4ee4-99e3-6d81a62d1a1c-01e3b745-b661-41c0-8100-505141289d8f.mp3)
+
 ## Trang 7
 
 ![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/b61184f3-cb67-4f24-9ee2-30fe9a9ebba5/p7-b950ef8a.webp)
@@ -107,6 +119,8 @@ Nhà vua cho truyền khắp nơi: hễ người con gái nào ướm vừa chi�
 Đến lượt Tấm. Tấm ướm vào, vừa khít như in. Tấm lấy chiếc hài còn lại trong túi áo ra, đi vào cả đôi.
 
 **Nhà Vua:** Nàng chính là người ta tìm. Ta đón nàng về cung nhé!
+
+🔊 [Nghe trang 7](../../../media/tts-cache/090804f5-18ae-446a-a601-17358b9b56c9-54e24d9d-933d-46d2-8759-28cd9255dabd.mp3)
 
 ## Trang 8
 
@@ -121,6 +135,8 @@ Tấm trở thành hoàng hậu. Dì và Cám vừa ngạc nhiên vừa xấu h�
 **Tấm:** Dì và em đừng buồn nữa. Chỉ mong cả nhà mình sống hiền lành, thương yêu nhau.
 
 Từ đó, ai trong làng cũng nhắc chuyện cô Tấm hiền thảo.
+
+🔊 [Nghe trang 8](../../../media/tts-cache/130f2708-2ba6-40ce-9950-3ab631300f93-158142d3-b8a9-4c74-8e31-959e078e3215.mp3)
 
 ---
 

@@ -104,9 +104,9 @@
   },
   {
    "ambient_sound": null,
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 24,
+   "audio_key": "42f0192da3ec024bdd83de75cb9c8c97f902886110c6b485abbdc237b1bf7b6d",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/64d1e8d3-9c78-4e55-ba67-cb16880918e8-d35e6930-e52b-4acb-b096-12f5019a5c5f.mp3",
    "choices": [],
    "content": "[narrator]Tích Chu lớn dần lên. Bà thì già đi, lưng còng xuống, tóc bạc trắng như mây. Nhưng Tích Chu chỉ mải chơi.[/narrator]\n[narrator]Sáng, cậu thả diều ngoài đồng. Chiều, cậu bắt chuồn chuồn bên bờ ao. Tối về, cậu lăn ra ngủ, chẳng nhớ hỏi han bà.[/narrator]\n[character:Tích Chu]Diều ơi, bay cao nữa đi! Chơi thêm chút nữa thôi mà![/character]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -122,7 +122,7 @@
    "sfx_sounds": [],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:34.86013+00:00",
+   "updated_at": "2026-10-16T05:38:15.845899+00:00",
    "voice_segments": null
   },
   {
@@ -175,9 +175,9 @@
   },
   {
    "ambient_sound": "forest",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 24,
+   "audio_key": "4bc678b6b5b64e2ed6eb50c1dea7d1c460759c038203c18c3fcfbb412e15d6b9",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/75d8e193-fa3b-41c2-a113-7de9d677480d-79fbdb71-03f9-4285-8cc3-69cdcb81352e.mp3",
    "choices": [],
    "content": "[narrator]Tích Chu ngồi khóc nức nở dưới gốc cây. Bỗng có ánh sáng lấp lánh, một bà tiên hiện ra.[/narrator]\n[character:Bà Tiên]Cháu bé, vì sao cháu khóc?[/character]\n[character:Tích Chu]Bà cháu hoá thành chim bay đi mất rồi. Cháu muốn bà về. Cháu sẽ không mải chơi nữa đâu.[/character]\n[character:Bà Tiên]Nếu cháu thương bà thật, hãy đến suối tiên ở cuối khu rừng. Lấy nước suối về cho bà uống, bà sẽ trở lại thành người.[/character]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -195,14 +195,14 @@
    ],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:56.868651+00:00",
+   "updated_at": "2026-10-16T05:38:26.396125+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "forest",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 25,
+   "audio_key": "35c80d61a7f9f69623d69b6411fcad2cc9852e42031fb1ee8cab505aa7797770",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/440f03ee-1722-4471-9d19-704c05b7cb64-a80c4d7d-ece3-4fb9-9e49-633d6067f4f7.mp3",
    "choices": [],
    "content": "[narrator]Tích Chu đi ngay. Cậu trèo qua đồi cao, lội qua ruộng sâu, băng qua khu rừng rậm. Gai cào xước chân, cậu vẫn đi.[/narrator]\n[narrator]Trời tối dần. Cậu hơi sợ, nhưng nghĩ đến bà, cậu lại bước tiếp.[/narrator]\n[character:Tích Chu]Bà ơi, chờ cháu nhé. Cháu sắp đến rồi![/character]\n[narrator]Cuối cùng, cậu nghe tiếng nước chảy róc rách. Suối tiên kia rồi![/narrator]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -220,14 +220,14 @@
    ],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:28:56.95095+00:00",
+   "updated_at": "2026-10-16T05:38:35.348543+00:00",
    "voice_segments": null
   },
   {
    "ambient_sound": "stream",
-   "audio_duration": 0,
-   "audio_key": null,
-   "audio_url": null,
+   "audio_duration": 25,
+   "audio_key": "ce060903b05175f4dadf4107e91e72c3757e079001b0f272b2ea327a2b55c53c",
+   "audio_url": "https://reverse-causing-increase-privacy.trycloudflare.com/storage/v1/object/public/tts-cache/07f0a87b-ef5c-4f35-84a9-26295a8487e7-030a6361-2bf9-440c-b3a9-da3bd164b4bc.mp3",
    "choices": [],
    "content": "[narrator]Nước suối trong veo, mát lạnh. Tích Chu cẩn thận múc đầy một bình nước, ôm chặt vào lòng. Cậu chạy một mạch về nhà, vừa chạy vừa gọi.[/narrator]\n[character:Tích Chu]Bà ơi! Cháu có nước suối tiên đây rồi! Bà về uống nước đi bà![/character]\n[narrator]Con chim nhỏ nghe thấy, liền bay sà xuống, đậu trên tay Tích Chu. Chim uống một ngụm, hai ngụm, rồi ba ngụm nước mát.[/narrator]",
    "created_at": "2026-10-15T14:34:09.448749+00:00",
@@ -245,7 +245,7 @@
    ],
    "story_id": "5f244e86-52af-44c0-b746-2438ff25af68",
    "transition_effect": "fade",
-   "updated_at": "2026-10-16T04:29:05.138497+00:00",
+   "updated_at": "2026-10-16T05:38:44.389623+00:00",
    "voice_segments": null
   },
   {

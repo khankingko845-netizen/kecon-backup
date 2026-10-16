@@ -36,6 +36,8 @@ Bỗng một vị thần khổng lồ xuất hiện. Thần cao lớn đến n�
 
 **Thần Trụ Trời:** Tối quá, chật quá! Ta phải tách trời ra khỏi đất mới được.
 
+🔊 [Nghe trang 1](../../../media/tts-cache/dcaee1ae-0684-45eb-a0a8-60b7d16fdbfb-e8be7eba-769f-4106-bdb3-1f81669c86a2.mp3)
+
 ## Trang 2
 
 ![Trang 2](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/8e80fd39-1266-4911-83c8-e172fe645597/p2-e0ce9c61.webp)
@@ -48,6 +50,8 @@ Một kẽ sáng nhỏ hé ra. Từ kẽ sáng ấy, một cô chim nhỏ chao c
 
 **Chim Én:** Ông thần ơi, ông khoẻ quá! Cháu là Chim Én. Cháu giúp ông một tay nhé!
 
+🔊 [Nghe trang 2](../../../media/tts-cache/e109cbd8-ac1e-49aa-9e6d-704cbdf729e5-bd05a324-6762-46b3-8dab-ee881dc9e867.mp3)
+
 ## Trang 3
 
 ![Trang 3](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/8e80fd39-1266-4911-83c8-e172fe645597/p3-675e3b46.webp)
@@ -57,6 +61,8 @@ Thần cúi xuống đào đất, khuân đá, đắp thành một cái cột v�
 **Thần Trụ Trời:** Cảm ơn cháu. Hòn sỏi nhỏ thôi, nhưng góp lại cũng thành cột lớn.
 
 **Chim Én:** Cháu bé nhưng chăm lắm ông ạ! Cột ơi, cao nữa lên!
+
+🔊 [Nghe trang 3](../../../media/tts-cache/4d77daf1-cc58-48f9-821a-36b6841c807c-bb7e18b2-9c48-46d6-897d-50494c81926e.mp3)
 
 ## Trang 4
 
@@ -70,6 +76,8 @@ Cột đá cao mãi, cao mãi, đẩy trời lên tít trên cao. Ánh sáng tr�
 
 Trời đất đã tách đôi: trời tròn như cái vung úp, đất phẳng như cái mâm.
 
+🔊 [Nghe trang 4](../../../media/tts-cache/b2ec1a48-79ce-4174-a5af-63535de16a52-8376d31b-f480-4888-9738-9375f4407de7.mp3)
+
 ## Trang 5
 
 ![Trang 5](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/8e80fd39-1266-4911-83c8-e172fe645597/p5-168d52ef.webp)
@@ -82,6 +90,8 @@ Chim Én bay lượn quanh cột đá, đếm từng tia nắng.
 
 **Chim Én:** Một tia, hai tia, ba tia... nhiều quá, cháu đếm không xuể!
 
+🔊 [Nghe trang 5](../../../media/tts-cache/f865435d-53cf-48aa-a62d-0a7eb9391641-2afc60f1-fd57-41fe-b05f-9a0ebb853df7.mp3)
+
 ## Trang 6
 
 ![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/8e80fd39-1266-4911-83c8-e172fe645597/p6-d6867750.webp)
@@ -92,6 +102,8 @@ Khi trời đã cao vững, thần phá cột đá đi. Đất đá văng ra kh�
 
 **Chim Én:** Đẹp quá! Có núi xanh, có biển biếc rồi!
 
+🔊 [Nghe trang 6](../../../media/tts-cache/c8660f26-9a6b-4325-bf72-1b3bcc0cd92f-d3e9eaaa-f409-4517-9c76-37d5b880e650.mp3)
+
 ## Trang 7
 
 ![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/8e80fd39-1266-4911-83c8-e172fe645597/p7-a06a7cd8.webp)
@@ -101,6 +113,8 @@ Khi trời đã cao vững, thần phá cột đá đi. Đất đá văng ra kh�
 **Ông Mặt Trời:** Có nắng, có mưa, mọi thứ đều lớn lên. Thế gian thật là vui!
 
 **Chim Én:** Cháu sẽ bay đi báo tin cho muôn loài: mùa xuân đến rồi!
+
+🔊 [Nghe trang 7](../../../media/tts-cache/d8fcbf34-a3d7-45cc-b844-2fbf638b2e77-ad07fd5a-2338-49c5-a3d8-52d2fea4ec72.mp3)
 
 ## Trang 8
 
@@ -113,6 +127,8 @@ Thần Trụ Trời đi khắp nơi ngắm nhìn thế gian, rồi ngồi nghỉ
 **Chim Én:** Mùa xuân nào cháu cũng sẽ bay về đây chào ông!
 
 Người xưa kể rằng, những dãy núi cao vời vợi ngày nay chính là dấu tích cột trụ trời năm ấy. Mỗi độ xuân về, chim én lại bay về rợp trời.
+
+🔊 [Nghe trang 8](../../../media/tts-cache/d48205ba-d075-484e-977b-54367f42fab0-5381c8f9-ef80-440e-bc4f-8ce6dbc69e21.mp3)
 
 ---
 

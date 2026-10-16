@@ -85,6 +85,8 @@ Bà lão chống gậy ra đầu làng, cắm cây gậy xuống đất rồi bi
 
 Nước dâng cao, tràn khắp đường làng. Mọi người hoảng hốt, bám vào cây, leo lên mái nhà.
 
+🔊 [Nghe trang 5](../../../media/tts-cache/ef2a016d-75f2-44ad-bb32-9abd18a8c9e9-5bd42bb8-460d-45e4-b0e4-9adf7693358e.mp3)
+
 ## Trang 6
 
 ![Trang 6](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p6-8d565d69.webp)
@@ -97,6 +99,8 @@ Riêng chỗ nhà hai mẹ con, nhờ có gói tro, nền đất cứ nổi cao 
 
 Hai mẹ con mỗi người một thuyền, chèo thẳng ra giữa dòng nước.
 
+🔊 [Nghe trang 6](../../../media/tts-cache/fe3684b6-8c34-43df-b728-9af24c707c8e-53914aee-dde3-48e4-997c-6b43b5733fe0.mp3)
+
 ## Trang 7
 
 ![Trang 7](../../../media/illustrations/284c3eb5-1815-4df8-92c5-5724fdd44cf3/19fed78d-4913-4098-8673-255b3e172a94/p7-08f62669.webp)
@@ -108,6 +112,8 @@ Hai chiếc thuyền đi khắp nơi, đón từng người, từng em bé, từ
 **Con Trai:** Bác đừng buồn. Mọi người bình an là tốt rồi ạ.
 
 Mọi người ngồi sát bên nhau trên thuyền, nhìn nước mênh mông.
+
+🔊 [Nghe trang 7](../../../media/tts-cache/9e2ed431-b1e4-4a7e-aef3-032ce3692844-78ec0da1-1c41-4b92-a88a-6789d7527b52.mp3)
 
 ## Trang 8
 
