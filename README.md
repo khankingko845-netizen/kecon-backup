@@ -4,7 +4,7 @@
 
 Máy chủ staging tự sao lưu lên đây mỗi ngày lúc 03:15 (giờ Việt Nam; đổi giờ / số bản giữ lại / token ở
 **Admin › Sao lưu**) bằng `tools/kecon_backup.py` (bản gốc: `deploy/prized/backup/` trong repo app; systemd
-`kecon-backup.timer`). Lần chạy gần nhất: **2026-10-16 19:56**.
+`kecon-backup.timer`). Lần chạy gần nhất: **2026-10-17 11:17**.
 Mỗi lần chạy đều giải mã bản chụp DB mới nhất và **khôi phục thử như khi chuyển máy** (user `supabase_admin`, giữ
 owner + quyền, vào database trống), so số dòng và giải mã lại Vault (key nhà cung cấp AI) với DB thật; chỉ cần một
 lỗi `pg_restore` là báo hỏng (`manifest.json` → `restore_check`).
