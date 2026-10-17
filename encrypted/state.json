@@ -12,9 +12,15 @@
   "updated": "20261015T140335Z"
  },
  "server-config": {
-  "files": 19,
+  "files": 21,
   "plain_bytes": 40960,
-  "plain_sha256": "e1b41a9a1924640e76ff211057026fb270612dea88f531f1f653fa0fade5db78",
-  "updated": "20261016T125603Z"
+  "plain_sha256": "af5c95bf4a92dd18d05f993ff216a52b52394bed916ace155ae6cbcad21f06cc",
+  "updated": "20261017T201601Z"
+ },
+ "voice-consents": {
+  "files": 0,
+  "plain_bytes": 10240,
+  "plain_sha256": "84ff92691f909a05b224e1c56abb4864f01b4f8e3c854e4bb4c7baf1d3f6d652",
+  "updated": "20261017T201601Z"
  }
 }
