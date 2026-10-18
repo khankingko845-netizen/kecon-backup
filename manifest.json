@@ -1,7 +1,7 @@
 {
- "last_run": "20261017T201601Z",
- "stories": 41,
- "family_stories": 1,
+ "last_run": "20261018T201601Z",
+ "stories": 40,
+ "family_stories": 0,
  "media": {
   "files": 683,
   "copied": 0,
@@ -14,6 +14,7 @@
   "voice-consents": 0
  },
  "db_snapshots": [
+  "db-20261018T201601Z.dump.gpg",
   "db-20261017T201601Z.dump.gpg",
   "db-20261017T041737Z.dump.gpg",
   "db-20261016T125603Z.dump.gpg",
@@ -37,12 +38,12 @@
   "ok": true,
   "tables": 100,
   "rows": {
-   "auth.users": 3,
-   "public.households": 3,
+   "auth.users": 1,
+   "public.households": 1,
    "public.play_sessions": 4,
-   "public.profiles": 3,
-   "public.stories": 41,
-   "public.story_pages": 327,
+   "public.profiles": 1,
+   "public.stories": 40,
+   "public.story_pages": 320,
    "storage.objects": 683,
    "vault.secrets": 4
   },

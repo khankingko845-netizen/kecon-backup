@@ -14,8 +14,8 @@
  "server-config": {
   "files": 21,
   "plain_bytes": 40960,
-  "plain_sha256": "af5c95bf4a92dd18d05f993ff216a52b52394bed916ace155ae6cbcad21f06cc",
-  "updated": "20261017T201601Z"
+  "plain_sha256": "99fb1bc2d78e9da56dd56fdb1f064e6275b82dff32f1c15afa10a1461cc12339",
+  "updated": "20261018T201601Z"
  },
  "voice-consents": {
   "files": 0,

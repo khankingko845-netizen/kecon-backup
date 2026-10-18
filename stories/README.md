@@ -1,12 +1,6 @@
 # Danh sách truyện
 
-Cập nhật: 2026-10-18 03:16 (giờ Việt Nam) · 41 truyện
-
-## Truyện gia đình đã tạo (1)
-
-| Truyện | Tạo lúc | Trang | Tranh | Audio |
-| --- | --- | --- | --- | --- |
-| [Cuộc Phiêu Lưu Của Thỏ Bông](gia-dinh/2026-10-17-cuoc-phieu-luu-cua-tho-bong-452994ff/README.md) | 2026-10-17 | 7 | 0 | 0 |
+Cập nhật: 2026-10-19 03:16 (giờ Việt Nam) · 40 truyện
 
 ## Truyện thư viện (40)
 

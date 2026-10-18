@@ -4,14 +4,14 @@
 
 Máy chủ staging tự sao lưu lên đây mỗi ngày lúc 03:15 (giờ Việt Nam; đổi giờ / số bản giữ lại / token ở
 **Admin › Sao lưu**) bằng `tools/kecon_backup.py` (bản gốc: `deploy/prized/backup/` trong repo app; systemd
-`kecon-backup.timer`). Lần chạy gần nhất: **2026-10-18 03:16**.
+`kecon-backup.timer`). Lần chạy gần nhất: **2026-10-19 03:16**.
 Mỗi lần chạy đều giải mã bản chụp DB mới nhất và **khôi phục thử như khi chuyển máy** (user `supabase_admin`, giữ
 owner + quyền, vào database trống), so số dòng và giải mã lại Vault (key nhà cung cấp AI) với DB thật; chỉ cần một
 lỗi `pg_restore` là báo hỏng (`manifest.json` → `restore_check`).
 
 | Phần | Ở đâu | Dạng |
 | --- | --- | --- |
-| Truyện (41 truyện, 1 truyện gia đình) | [`stories/`](stories/README.md) | đọc được: `README.md` + `story.json` (mọi cột) |
+| Truyện (40 truyện, 0 truyện gia đình) | [`stories/`](stories/README.md) | đọc được: `README.md` + `story.json` (mọi cột) |
 | Tranh + audio của truyện (683 file, 141 MB) | `media/<bucket>/<đường dẫn trong Storage>` | file gốc, `media/manifest.json` ghi version + sha256 |
 | Bucket riêng tư (ghi âm bố mẹ, ảnh đại diện gia đình…) | `encrypted/family-avatars.tar.gpg` (0 file), `encrypted/recordings.tar.gpg` (0 file), `encrypted/voice-consents.tar.gpg` (0 file) | **mã hoá** AES-256 |
 | Cấu hình máy chủ (`/srv/kecon/shared`: .env, secrets, **khoá gốc Vault**; systemd; `config.toml`) | `encrypted/server-config.tar.gpg` | **mã hoá** AES-256 |
