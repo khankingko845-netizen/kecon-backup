@@ -1,6 +1,6 @@
 # Danh sách truyện
 
-Cập nhật: 2026-10-20 03:16 (giờ Việt Nam) · 40 truyện
+Cập nhật: 2026-10-21 03:16 (giờ Việt Nam) · 40 truyện
 
 ## Truyện thư viện (40)
 
