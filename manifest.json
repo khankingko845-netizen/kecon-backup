@@ -1,5 +1,5 @@
 {
- "last_run": "20261020T201601Z",
+ "last_run": "20261021T201601Z",
  "stories": 40,
  "family_stories": 0,
  "media": {
@@ -14,13 +14,13 @@
   "voice-consents": 0
  },
  "db_snapshots": [
+  "db-20261021T201601Z.dump.gpg",
   "db-20261020T201601Z.dump.gpg",
   "db-20261019T201601Z.dump.gpg",
   "db-20261018T201601Z.dump.gpg",
   "db-20261017T201601Z.dump.gpg",
   "db-20261017T041737Z.dump.gpg",
-  "db-20261016T125603Z.dump.gpg",
-  "db-20261015T140335Z.dump.gpg"
+  "db-20261016T125603Z.dump.gpg"
  ],
  "postgres": "17.11",
  "images": {
