@@ -1,0 +1,8 @@
+{
+ "file": "db-20261029T201600Z.dump.gpg",
+ "taken": "20261029T201600Z",
+ "plain_sha256": "04a868757eb5095b892e20433ca54556c1d5063068f95b7d7bd2bc81905f65bd",
+ "plain_bytes": 1558285,
+ "encrypted_sha256": "e03045df172f401ceadbdccde611d0081258bf217be4351f5ad1b1b982d8f041",
+ "table_data_entries": 115
+}
